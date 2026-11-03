@@ -1,0 +1,323 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [8 0 R 10 0 R 12 0 R 14 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Length 7975 >>
+stream
+BT /F2 17.00 Tf 0.070 0.180 0.420 rg 141.27 773.89 Td (SENG 319: Software Design Patterns) Tj ET
+BT /F1 10.00 Tf 0.300 0.350 0.420 rg 114.74 753.89 Td (Group Project 1: Detection and Refactoring of Anti-Patterns and Code Smells) Tj ET
+BT /F1 10.00 Tf 0.300 0.350 0.420 rg 126.44 738.89 Td (Group Name: Group_Name \(Temp\)   |   Target Codebase: CheckStyle 14.1.0) Tj ET
+1.50 w 0.120 0.250 0.540 RG 48.00 729.89 m 547.28 729.89 l S
+BT /F2 13.50 Tf 0.100 0.230 0.540 rg 48.00 692.89 Td (Part I: Software Design Anti-Patterns) Tj ET
+0.90 w 0.750 0.820 0.900 RG 48.00 687.89 m 547.28 687.89 l S
+BT /F2 11.50 Tf 0.120 0.250 0.580 rg 48.00 661.89 Td (1. Anti-Pattern Types \(Design Smells\) Detected by PTIDEJ) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 645.89 Td (Using the PTIDEJ analysis tool on the CheckStyle codebase \(outputs stored in lesson-vm-out/design) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 631.69 Td (smells\), four Software Design Anti-Pattern detectors were evaluated. The table below lists each) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 617.49 Td (anti-pattern type and the number of detected instances:) Tj ET
+0.60 w 0.910 0.940 0.980 rg 0.750 0.800 0.880 RG 48.00 589.29 499.28 20.00 re B
+BT /F2 9.20 Tf 0.080 0.140 0.280 rg 54.00 595.79 Td (Anti-Pattern Type \(Design Smell\)) Tj ET
+0.60 w 0.750 0.800 0.880 RG 223.00 609.29 m 223.00 589.29 l S
+BT /F2 9.20 Tf 0.080 0.140 0.280 rg 229.00 595.79 Td (Instances) Tj ET
+0.60 w 0.750 0.800 0.880 RG 288.00 609.29 m 288.00 589.29 l S
+BT /F2 9.20 Tf 0.080 0.140 0.280 rg 294.00 595.79 Td (Detected Locations / Summary) Tj ET
+0.50 w 1.000 1.000 1.000 rg 0.780 0.820 0.880 RG 48.00 542.69 499.28 46.60 re B
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 54.00 576.09 Td (AntiSingleton) Tj ET
+0.50 w 0.780 0.820 0.880 RG 223.00 589.29 m 223.00 542.69 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 229.00 576.09 Td (3) Tj ET
+0.50 w 0.780 0.820 0.880 RG 288.00 589.29 m 288.00 542.69 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 294.00 576.09 Td (JavaLanguageParser \(fileCounter\), JavaLanguageLexer) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 294.00 563.89 Td (\(modeNames, channelNames\), JavadocCommentsLexer) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 294.00 551.69 Td (\(modeNames, channelNames\)) Tj ET
+0.50 w 0.975 0.985 0.995 rg 0.780 0.820 0.880 RG 48.00 496.09 499.28 46.60 re B
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 54.00 529.49 Td (Blob \(God Class\)) Tj ET
+0.50 w 0.780 0.820 0.880 RG 223.00 542.69 m 223.00 496.09 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 229.00 529.49 Td (7) Tj ET
+0.50 w 0.780 0.820 0.880 RG 288.00 542.69 m 288.00 496.09 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 294.00 529.49 Td (Main, Checker, JavadocDetailNodeParser,) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 294.00 517.29 Td (FallThroughCheck, HandlerFactory,) Tj ET
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 294.00 505.09 Td (AbstractClassCouplingCheck, FinalLocalVariableCheck) Tj ET
+0.50 w 1.000 1.000 1.000 rg 0.780 0.820 0.880 RG 48.00 473.89 499.28 22.20 re B
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 54.00 482.89 Td (FunctionalDecomposition) Tj ET
+0.50 w 0.780 0.820 0.880 RG 223.00 496.09 m 223.00 473.89 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 229.00 482.89 Td (0) Tj ET
+0.50 w 0.780 0.820 0.880 RG 288.00 496.09 m 288.00 473.89 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 294.00 482.89 Td (No instances detected) Tj ET
+0.50 w 0.975 0.985 0.995 rg 0.780 0.820 0.880 RG 48.00 451.69 499.28 22.20 re B
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 54.00 460.69 Td (SwissArmyKnife) Tj ET
+0.50 w 0.780 0.820 0.880 RG 223.00 473.89 m 223.00 451.69 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 229.00 460.69 Td (0) Tj ET
+0.50 w 0.780 0.820 0.880 RG 288.00 473.89 m 288.00 451.69 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 294.00 460.69 Td (No instances detected) Tj ET
+0.50 w 1.000 1.000 1.000 rg 0.780 0.820 0.880 RG 48.00 429.49 499.28 22.20 re B
+BT /F2 9.20 Tf 0.120 0.160 0.220 rg 54.00 438.49 Td (Total Anti-Patterns) Tj ET
+0.50 w 0.780 0.820 0.880 RG 223.00 451.69 m 223.00 429.49 l S
+BT /F2 9.20 Tf 0.120 0.160 0.220 rg 229.00 438.49 Td (10) Tj ET
+0.50 w 0.780 0.820 0.880 RG 288.00 451.69 m 288.00 429.49 l S
+BT /F2 9.20 Tf 0.120 0.160 0.220 rg 294.00 438.49 Td (Across 4 Software Design Anti-Pattern categories) Tj ET
+BT /F2 11.50 Tf 0.120 0.250 0.580 rg 48.00 403.49 Td (2. Most Impactful Anti-Pattern on CheckStyle Quality & Justification) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 387.49 Td (From the PTIDEJ detection results in \(1\), both Blob \(7 instances\) and AntiSingleton \(3 instances\) exert) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 373.29 Td (major impacts on the quality, maintainability, performance, and reliability of the CheckStyle application:) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 355.29 Td (-) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 355.29 Td ([Blob \(God Class\) - Architectural & Maintainability Impact]: Blob classes \(such as) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 341.49 Td (com.puppycrawl.tools.checkstyle.Main with McCabe complexity = 152.0 and NADE = 39.0, and Checker with) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 327.69 Td (McCabe complexity = 109.0\) centralize an excessive number of responsibilities, fields, and methods while) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 313.89 Td (surrounding collaborator classes act as simple data containers. In Main.java, CLI option parsing,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 300.09 Td (configuration loading, listener output stream management, file traversal, and exit-code calculation are) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 286.29 Td (tightly coupled into a single class. This wastes lines of code \(LOC\), increases cognitive load, hurts) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 272.49 Td (modularity, and makes independent unit testing difficult.) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 255.69 Td (-) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 255.69 Td ([AntiSingleton - Concurrency, State Safety & Runtime Impact]: The AntiSingleton anti-pattern occurs) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 241.89 Td (when a class exposes non-final static fields \(flagged by PTIDEJ as NotClassGlobalVariable\) that function) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 228.09 Td (as unprotected global mutable state. In JavaLanguageParser \(generated from JavaLanguageParser.g4\),) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 214.29 Td (the package-private static field "static int fileCounter = 0;" is mutated inside the parser constructor) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 200.49 Td (every time CheckStyle parses a Java file to decide when to clear the ANTLR DFA state cache) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 186.69 Td (\(_interp.clearDFA\(\)\). Because this mutable static primitive is neither private nor synchronized,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 172.89 Td (multi-threaded file checking triggers race conditions \(lost increments or concurrent resets\), leading to) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 159.09 Td (non-deterministic DFA cache clearing and memory/performance degradation.) Tj ET
+BT /F2 11.50 Tf 0.120 0.250 0.580 rg 48.00 136.09 Td (3. Refactoring Two Anti-Pattern Instances) Tj ET
+BT /F2 10.50 Tf 0.150 0.200 0.300 rg 48.00 117.09 Td (Instance 1: AntiSingleton in com.puppycrawl.tools.checkstyle.grammar.java.JavaLanguageParser) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 102.09 Td (a. Reason for Choosing the Anti-Pattern Instance:) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 83.89 Td (We chose the AntiSingleton instance in JavaLanguageParser because it sits directly on CheckStyle's hot) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 69.69 Td (path \(instantiated once per parsed Java source file\) and resolves both an object-oriented encapsulation) Tj ET
+BT /F1 8.50 Tf 0.450 0.500 0.560 rg 201.25 28.00 Td (SENG 319 - Group Project 1 Report | Page 1 of 4) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 4677 >>
+stream
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 779.89 Td (violation and a real thread-safety race condition with a clean, self-contained in-place refactoring. Note) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 765.69 Td (that the other two AntiSingleton instances reported in AntiSingleton.ini \(JavaLanguageLexer and) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 751.49 Td (JavadocCommentsLexer\) stem from ANTLR 4's built-in Java code generator template \(Java.stg\), which) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 737.29 Td (emits "public static String[] channelNames" and "public static String[] modeNames" without the "final") Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 723.09 Td (modifier into target/generated-sources/antlr. In contrast, JavaLanguageParser.fileCounter is) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 708.89 Td (hand-written code inside JavaLanguageParser.g4.) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 690.69 Td (b. Location Within the CheckStyle Codebase [Original Code Snippet]:) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 672.49 Td (File: src/main/resources/com/puppycrawl/tools/checkstyle/grammar/java/JavaLanguageParser.g4) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 658.29 Td (\(lines 54-78\):) Tj ET
+0.60 w 0.965 0.975 0.990 rg 0.820 0.860 0.920 RG 48.00 510.89 499.28 139.20 re B
+0.00 w 0.150 0.390 0.920 rg 48.00 510.89 3.00 139.20 re f
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 634.89 Td (    static int fileCounter = 0;) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 623.69 Td () Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 612.49 Td (    public JavaLanguageParser\(TokenStream input, int clearDfaLimit\) {) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 601.29 Td (        super\(input\);) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 590.09 Td (        _interp = new ParserATNSimulator\(this, _ATN , _decisionToDFA, _sharedContextCache\);) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 578.89 Td (        fileCounter++;) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 567.69 Td (        if \(fileCounter > clearDfaLimit\) {) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 556.49 Td (            _interp.clearDFA\(\);) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 545.29 Td (            fileCounter = 0;) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 534.09 Td (        }) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 522.89 Td (    }) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 492.89 Td (c. Steps to Refactor and Solve the Issue & Justification:) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 474.89 Td (-) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 474.89 Td (Step 1 \(Encapsulate Mutable Counter in DfaClearCounter\): Inside @parser::members of) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 461.09 Td (JavaLanguageParser.g4, we defined the static final helper class DfaClearCounter that encapsulates) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 447.29 Td ("private final int limit" and the mutable instance field "private int count".) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 430.49 Td (-) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 430.49 Td (Step 2 \(Replace Mutable Static Field with Private Static Final Constant\): We removed "static int) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 416.69 Td (fileCounter = 0;" and replaced it in place with "private static final DfaClearCounter) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 402.89 Td (DFA_CLEAR_COUNTER = new DfaClearCounter\(CLEAR_DFA_LIMIT\);". Because the static reference is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 389.09 Td (private and final, JavaLanguageParser no longer exposes a mutable static global variable) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 375.29 Td (\(NotClassGlobalVariable\).) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 358.49 Td (-) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 358.49 Td (Step 3 \(Synchronize State Transitions\): We implemented synchronized tick\(\) and tick\(int customLimit\)) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 344.69 Td (methods on DfaClearCounter so that incrementing count, comparing against the DFA limit, and resetting) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 330.89 Td (count to 0 happen atomically in a single critical section, eliminating data races during concurrent file) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 317.09 Td (parsing.) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 300.09 Td (d. Refactored Code Snippet & PTIDEJ Verification Result:) Tj ET
+BT /F1 8.50 Tf 0.450 0.500 0.560 rg 201.25 28.00 Td (SENG 319 - Group Project 1 Report | Page 2 of 4) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 7654 >>
+stream
+0.60 w 0.965 0.975 0.990 rg 0.820 0.860 0.920 RG 48.00 381.89 499.28 408.00 re B
+0.00 w 0.150 0.390 0.920 rg 48.00 381.89 3.00 408.00 re f
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 774.69 Td (    private static final DfaClearCounter DFA_CLEAR_COUNTER =) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 763.49 Td (            new DfaClearCounter\(CLEAR_DFA_LIMIT\); // Anti-Pattern Refactor) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 752.29 Td () Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 741.09 Td (    public static final class DfaClearCounter { // Anti-Pattern Refactor) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 729.89 Td (        private final int limit; // Anti-Pattern Refactor) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 718.69 Td (        private int count; // Anti-Pattern Refactor) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 707.49 Td () Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 696.29 Td (        public DfaClearCounter\(int limit\) { // Anti-Pattern Refactor) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 685.09 Td (            this.limit = limit; // Anti-Pattern Refactor) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 673.89 Td (        }) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 662.69 Td () Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 651.49 Td (        public synchronized boolean tick\(\) { // Anti-Pattern Refactor) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 640.29 Td (            return tick\(limit\); // Anti-Pattern Refactor) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 629.09 Td (        }) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 617.89 Td () Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 606.69 Td (        public synchronized boolean tick\(int customLimit\) { // Anti-Pattern Refactor) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 595.49 Td (            final boolean shouldClear; // Anti-Pattern Refactor) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 584.29 Td (            if \(++count > customLimit\) { // Anti-Pattern Refactor) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 573.09 Td (                count = 0; // Anti-Pattern Refactor) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 561.89 Td (                shouldClear = true; // Anti-Pattern Refactor) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 550.69 Td (            }) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 539.49 Td (            else {) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 528.29 Td (                shouldClear = false; // Anti-Pattern Refactor) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 517.09 Td (            }) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 505.89 Td (            return shouldClear; // Anti-Pattern Refactor) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 494.69 Td (        }) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 483.49 Td (    }) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 472.29 Td () Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 461.09 Td (    public JavaLanguageParser\(TokenStream input, int clearDfaLimit\) {) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 449.89 Td (        super\(input\);) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 438.69 Td (        _interp = new ParserATNSimulator\(this, _ATN , _decisionToDFA, _sharedContextCache\);) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 427.49 Td (        if \(DFA_CLEAR_COUNTER.tick\(clearDfaLimit\)\) { // Anti-Pattern Refactor) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 416.29 Td (            _interp.clearDFA\(\); // Anti-Pattern Refactor) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 405.09 Td (        }) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 393.89 Td (    }) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 363.89 Td (PTIDEJ Resolution Result: Because "static int fileCounter" has been removed and replaced with a "private) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 349.69 Td (static final" reference whose mutable state is an encapsulated private instance variable inside) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 335.49 Td (DfaClearCounter, PTIDEJ's NotClassGlobalVariable check no longer triggers on JavaLanguageParser.) Tj ET
+BT /F2 10.50 Tf 0.150 0.200 0.300 rg 48.00 314.29 Td (Instance 2: Blob Anti-Pattern Refactoring) Tj ET
+BT /F3 10.00 Tf 0.400 0.450 0.520 rg 48.00 299.29 Td ([To be completed in Task 2: Blob Anti-Pattern Refactoring.]) Tj ET
+BT /F2 13.50 Tf 0.100 0.230 0.540 rg 48.00 270.09 Td (Part II: Code Smells) Tj ET
+0.90 w 0.750 0.820 0.900 RG 48.00 265.09 m 547.28 265.09 l S
+BT /F2 11.50 Tf 0.120 0.250 0.580 rg 48.00 239.09 Td (1. Code Smells Detected by PTIDEJ) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 223.09 Td (The table below lists all Code Smell types analysed by PTIDEJ in lesson-vm-out/design smells and their) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 208.89 Td (instance counts:) Tj ET
+0.60 w 0.910 0.940 0.980 rg 0.750 0.800 0.880 RG 48.00 180.69 499.28 20.00 re B
+BT /F2 9.20 Tf 0.080 0.140 0.280 rg 54.00 187.19 Td (Code Smell Type) Tj ET
+0.60 w 0.750 0.800 0.880 RG 233.00 200.69 m 233.00 180.69 l S
+BT /F2 9.20 Tf 0.080 0.140 0.280 rg 239.00 187.19 Td (Instances) Tj ET
+0.60 w 0.750 0.800 0.880 RG 298.00 200.69 m 298.00 180.69 l S
+BT /F2 9.20 Tf 0.080 0.140 0.280 rg 304.00 187.19 Td (Notes) Tj ET
+0.50 w 1.000 1.000 1.000 rg 0.780 0.820 0.880 RG 48.00 158.49 499.28 22.20 re B
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 54.00 167.49 Td (RefusedParentBequest) Tj ET
+0.50 w 0.780 0.820 0.880 RG 233.00 180.69 m 233.00 158.49 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 239.00 167.49 Td (40) Tj ET
+0.50 w 0.780 0.820 0.880 RG 298.00 180.69 m 298.00 158.49 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 304.00 167.49 Td (Subclasses overriding/ignoring parent bequest) Tj ET
+0.50 w 0.975 0.985 0.995 rg 0.780 0.820 0.880 RG 48.00 136.29 499.28 22.20 re B
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 54.00 145.29 Td (ComplexClass) Tj ET
+0.50 w 0.780 0.820 0.880 RG 233.00 158.49 m 233.00 136.29 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 239.00 145.29 Td (31) Tj ET
+0.50 w 0.780 0.820 0.880 RG 298.00 158.49 m 298.00 136.29 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 304.00 145.29 Td (Classes with high McCabe cyclomatic complexity) Tj ET
+0.50 w 1.000 1.000 1.000 rg 0.780 0.820 0.880 RG 48.00 114.09 499.28 22.20 re B
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 54.00 123.09 Td (LongParameterList) Tj ET
+0.50 w 0.780 0.820 0.880 RG 233.00 136.29 m 233.00 114.09 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 239.00 123.09 Td (19) Tj ET
+0.50 w 0.780 0.820 0.880 RG 298.00 136.29 m 298.00 114.09 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 304.00 123.09 Td (Methods with excessive parameter counts) Tj ET
+0.50 w 0.975 0.985 0.995 rg 0.780 0.820 0.880 RG 48.00 91.89 499.28 22.20 re B
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 54.00 100.89 Td (LazyClass) Tj ET
+0.50 w 0.780 0.820 0.880 RG 233.00 114.09 m 233.00 91.89 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 239.00 100.89 Td (13) Tj ET
+0.50 w 0.780 0.820 0.880 RG 298.00 114.09 m 298.00 91.89 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 304.00 100.89 Td (Classes with very few methods/instructions \(IR\)) Tj ET
+0.50 w 1.000 1.000 1.000 rg 0.780 0.820 0.880 RG 48.00 69.69 499.28 22.20 re B
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 54.00 78.69 Td (ClassDataShouldBePrivate) Tj ET
+0.50 w 0.780 0.820 0.880 RG 233.00 91.89 m 233.00 69.69 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 239.00 78.69 Td (7) Tj ET
+0.50 w 0.780 0.820 0.880 RG 298.00 91.89 m 298.00 69.69 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 304.00 78.69 Td (Classes exposing non-private fields) Tj ET
+BT /F1 8.50 Tf 0.450 0.500 0.560 rg 201.25 28.00 Td (SENG 319 - Group Project 1 Report | Page 3 of 4) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 3705 >>
+stream
+0.50 w 0.975 0.985 0.995 rg 0.780 0.820 0.880 RG 48.00 767.69 499.28 22.20 re B
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 54.00 776.69 Td (BaseClassShouldBeAbstract) Tj ET
+0.50 w 0.780 0.820 0.880 RG 233.00 789.89 m 233.00 767.69 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 239.00 776.69 Td (2) Tj ET
+0.50 w 0.780 0.820 0.880 RG 298.00 789.89 m 298.00 767.69 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 304.00 776.69 Td (Base classes not declared abstract) Tj ET
+0.50 w 1.000 1.000 1.000 rg 0.780 0.820 0.880 RG 48.00 745.49 499.28 22.20 re B
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 54.00 754.49 Td (SpeculativeGenerality) Tj ET
+0.50 w 0.780 0.820 0.880 RG 233.00 767.69 m 233.00 745.49 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 239.00 754.49 Td (2) Tj ET
+0.50 w 0.780 0.820 0.880 RG 298.00 767.69 m 298.00 745.49 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 304.00 754.49 Td (Abstract classes with unused generality) Tj ET
+0.50 w 0.975 0.985 0.995 rg 0.780 0.820 0.880 RG 48.00 723.29 499.28 22.20 re B
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 54.00 732.29 Td (BaseClassKnowsDerivedClass) Tj ET
+0.50 w 0.780 0.820 0.880 RG 233.00 745.49 m 233.00 723.29 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 239.00 732.29 Td (0) Tj ET
+0.50 w 0.780 0.820 0.880 RG 298.00 745.49 m 298.00 723.29 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 304.00 732.29 Td (None detected) Tj ET
+0.50 w 1.000 1.000 1.000 rg 0.780 0.820 0.880 RG 48.00 701.09 499.28 22.20 re B
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 54.00 710.09 Td (LargeClass) Tj ET
+0.50 w 0.780 0.820 0.880 RG 233.00 723.29 m 233.00 701.09 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 239.00 710.09 Td (0) Tj ET
+0.50 w 0.780 0.820 0.880 RG 298.00 723.29 m 298.00 701.09 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 304.00 710.09 Td (None detected) Tj ET
+0.50 w 0.975 0.985 0.995 rg 0.780 0.820 0.880 RG 48.00 678.89 499.28 22.20 re B
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 54.00 687.89 Td (ManyFieldAttributesButNotComplex) Tj ET
+0.50 w 0.780 0.820 0.880 RG 233.00 701.09 m 233.00 678.89 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 239.00 687.89 Td (0) Tj ET
+0.50 w 0.780 0.820 0.880 RG 298.00 701.09 m 298.00 678.89 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 304.00 687.89 Td (None detected) Tj ET
+0.50 w 1.000 1.000 1.000 rg 0.780 0.820 0.880 RG 48.00 656.69 499.28 22.20 re B
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 54.00 665.69 Td (MessageChains) Tj ET
+0.50 w 0.780 0.820 0.880 RG 233.00 678.89 m 233.00 656.69 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 239.00 665.69 Td (0) Tj ET
+0.50 w 0.780 0.820 0.880 RG 298.00 678.89 m 298.00 656.69 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 304.00 665.69 Td (None detected) Tj ET
+0.50 w 0.975 0.985 0.995 rg 0.780 0.820 0.880 RG 48.00 634.49 499.28 22.20 re B
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 54.00 643.49 Td (TraditionBreaker) Tj ET
+0.50 w 0.780 0.820 0.880 RG 233.00 656.69 m 233.00 634.49 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 239.00 643.49 Td (0) Tj ET
+0.50 w 0.780 0.820 0.880 RG 298.00 656.69 m 298.00 634.49 l S
+BT /F1 9.20 Tf 0.120 0.160 0.220 rg 304.00 643.49 Td (None detected) Tj ET
+0.50 w 1.000 1.000 1.000 rg 0.780 0.820 0.880 RG 48.00 612.29 499.28 22.20 re B
+BT /F2 9.20 Tf 0.120 0.160 0.220 rg 54.00 621.29 Td (Total Code Smells) Tj ET
+0.50 w 0.780 0.820 0.880 RG 233.00 634.49 m 233.00 612.29 l S
+BT /F2 9.20 Tf 0.120 0.160 0.220 rg 239.00 621.29 Td (114) Tj ET
+0.50 w 0.780 0.820 0.880 RG 298.00 634.49 m 298.00 612.29 l S
+BT /F2 9.20 Tf 0.120 0.160 0.220 rg 304.00 621.29 Td (Across 12 Code Smell categories) Tj ET
+BT /F3 10.00 Tf 0.400 0.450 0.520 rg 48.00 592.29 Td ([Part II Questions 2 & 3 will be populated as Code Smell refactorings are completed.]) Tj ET
+BT /F1 8.50 Tf 0.450 0.500 0.560 rg 201.25 28.00 Td (SENG 319 - Group Project 1 Report | Page 4 of 4) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 13 0 R >>
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000136 00000 n 
+0000000233 00000 n 
+0000000335 00000 n 
+0000000440 00000 n 
+0000000535 00000 n 
+0000008562 00000 n 
+0000008724 00000 n 
+0000013453 00000 n 
+0000013616 00000 n 
+0000021323 00000 n 
+0000021487 00000 n 
+0000025245 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+25409
+%%EOF

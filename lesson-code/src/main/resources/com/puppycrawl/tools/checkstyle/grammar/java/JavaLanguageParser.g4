@@ -51,7 +51,74 @@ options { tokenVocab=JavaLanguageLexer; }
         return _input.LT(1).getType() == JavaLanguageLexer.LITERAL_YIELD && switchBlockDepth > 0;
     }
 
-    static int fileCounter = 0;
+    // Anti-Pattern Refactor: Replaced mutable static 'fileCounter' (AntiSingleton smell)
+    // in place with an encapsulated, thread-safe DfaClearCounter class and a
+    // 'private static final' constant reference.
+    //
+    // Thought Process:
+    // PTIDEJ flagged 'static int fileCounter = 0' in JavaLanguageParser as an AntiSingleton
+    // (NotClassGlobalVariable) because it was a non-final, package-private static variable
+    // acting as global mutable state across all parser instances. In addition to breaking
+    // encapsulation, directly incrementing and resetting an unsynchronized static int in the
+    // constructor caused a race condition when multiple threads parsed files concurrently.
+    //
+    // How & Why This Works:
+    // 1. In-Place Encapsulation: Instead of exposing a mutable static primitive on the parser,
+    //    the mutable counter ('count') is moved into a private instance field of DfaClearCounter,
+    //    while JavaLanguageParser holds only an immutable 'private static final' reference
+    //    (DFA_CLEAR_COUNTER). Because the static reference is final and private, PTIDEJ no longer
+    //    flags JavaLanguageParser as an AntiSingleton.
+    // 2. Thread Safety: DfaClearCounter.tick() is synchronized so incrementing the count,
+    //    comparing it against the limit, and resetting it to zero occur atomically in one
+    //    critical section, preventing race conditions and missed resets.
+    private static final DfaClearCounter DFA_CLEAR_COUNTER =
+            new DfaClearCounter(CLEAR_DFA_LIMIT); // Anti-Pattern Refactor
+
+    /**
+     * Thread-safe helper that encapsulates the parsed file counter for clearing the DFA cache.
+     */
+    public static final class DfaClearCounter { // Anti-Pattern Refactor
+        /** The threshold of files to parse before clearing the DFA cache. */
+        private final int limit; // Anti-Pattern Refactor
+        /** Tracks how many files have been parsed since the last DFA reset. */
+        private int count; // Anti-Pattern Refactor
+
+        /**
+         * Creates a counter with the specified DFA clear threshold.
+         *
+         * @param limit maximum parsed files before DFA states are cleared
+         */
+        public DfaClearCounter(int limit) { // Anti-Pattern Refactor
+            this.limit = limit; // Anti-Pattern Refactor
+        }
+
+        /**
+         * Increments the file count and checks against the default limit.
+         *
+         * @return true if the DFA should be cleared now (and resets the count)
+         */
+        public synchronized boolean tick() { // Anti-Pattern Refactor
+            return tick(limit); // Anti-Pattern Refactor
+        }
+
+        /**
+         * Increments the file count and checks against the given limit.
+         *
+         * @param customLimit maximum parsed files before DFA states are cleared
+         * @return true if the DFA should be cleared now (and resets the count)
+         */
+        public synchronized boolean tick(int customLimit) { // Anti-Pattern Refactor
+            final boolean shouldClear; // Anti-Pattern Refactor
+            if (++count > customLimit) { // Anti-Pattern Refactor
+                count = 0; // Anti-Pattern Refactor
+                shouldClear = true; // Anti-Pattern Refactor
+            }
+            else {
+                shouldClear = false; // Anti-Pattern Refactor
+            }
+            return shouldClear; // Anti-Pattern Refactor
+        }
+    }
 
     /**
      * We create a custom constructor so that we can clear the DFA
@@ -69,10 +136,10 @@ options { tokenVocab=JavaLanguageLexer; }
     public JavaLanguageParser(TokenStream input, int clearDfaLimit) {
         super(input);
         _interp = new ParserATNSimulator(this, _ATN , _decisionToDFA, _sharedContextCache);
-        fileCounter++;
-        if (fileCounter > clearDfaLimit) {
-            _interp.clearDFA();
-            fileCounter = 0;
+        // Anti-Pattern Refactor: Delegate file counting and threshold check to the thread-safe
+        // DfaClearCounter.tick() method instead of mutating a static primitive field directly.
+        if (DFA_CLEAR_COUNTER.tick(clearDfaLimit)) { // Anti-Pattern Refactor
+            _interp.clearDFA(); // Anti-Pattern Refactor
         }
     }
 }
