@@ -1,0 +1,41 @@
+# 1
+
+ I select non private class data as the smell that is most affecting for the us
+ er experience and for codequality in my opinion it is long arguments i 
+ fukcing hate those
+ while stuff like blobs who are just wastes of LOC and sanity and memory???
+ those are also insane antisingleton can also cause severe issues
+
+ I will fix blobs and antisingletons as they arent that many of them so easier
+ and also they are quite severe issues with quite minimal fixes that will result
+ in better perfmance gain than the affermentioned smells
+
+ AntiSingleton Places:
+
+	Reason to fix: quite easy to fix with a quite big risk solving and performance
+	gain relative to the effort, can trigger races etc.
+
+	Locations:
+		com.puppycrawl.tools.checkstyle.grammar.java.JavaLanguageParser:
+       
+     public final class DfaClearCounter {
+         private final int limit;
+         private int count = 0;
+
+         public DfaClearCounter(int limit) { this.limit = limit; }
+
+         /** @return true if the DFA should be cleared now (and resets the count). */
+         public synchronized boolean tick() {
+             if (++count > limit) {
+                 count = 0;
+                 return true;
+             }
+             return false;
+         }
+     }
+
+		com.puppycrawl.tools.checkstyle.grammar.java.JavaLanguageLexer
+
+
+
+		com.puppycrawl.tools.checkstyle.grammar.javadoc.JavadocCommentsLexer
