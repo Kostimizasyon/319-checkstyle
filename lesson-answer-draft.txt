@@ -34,8 +34,6 @@
          }
      }
 
-		com.puppycrawl.tools.checkstyle.grammar.java.JavaLanguageLexer
+# 2
 
-
-
-		com.puppycrawl.tools.checkstyle.grammar.javadoc.JavadocCommentsLexer
+  I select 
