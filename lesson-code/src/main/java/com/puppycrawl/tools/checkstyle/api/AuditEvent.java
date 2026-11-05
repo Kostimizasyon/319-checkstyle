@@ -172,39 +172,21 @@ public final class AuditEvent {
         return violation;
     }
 
-    // Anti-Pattern Refactor: Moved check short-name and source identifier resolution from
-    // AuditEventDefaultFormatter into AuditEvent to resolve Blob #4 (AuditEventDefaultFormatter
-    // LowCohesion + AuditEvent DataClass).
-    //
-    // Thought Process:
-    // PTIDEJ detected a Blob anti-pattern pairing AuditEventDefaultFormatter (LowCohesion,
-    // LCOM5 = 1.5 > 1.3257) with AuditEvent (DataClass, NMD+NAD = 15.0). Previously, AuditEvent
-    // acted as a passive data holder exposing only raw getters, while AuditEventDefaultFormatter
-    // exhibited Feature Envy by reaching into AuditEvent's sourceName and moduleId fields via
-    // a disconnected static helper (getCheckShortName) to compute the event's short check name.
-    //
-    // How & Why This Works:
-    // By applying the Move Method refactoring pattern, AuditEvent now encapsulates the domain
-    // behavior of deriving its own short check name (stripping the package prefix and optional
-    // "Check" suffix) and resolving its effective source identifier (moduleId if present,
-    // otherwise the short check name). This enriches AuditEvent beyond a passive DataClass
-    // and allows AuditEventDefaultFormatter to remove the uncohesive static helper method.
-
     /**
      * Returns the short check name without package prefix and without the given suffix.
      *
      * @param suffix suffix to strip from the short class name (e.g. "Check")
      * @return short check name without the suffix
      */
-    public String getCheckShortName(String suffix) { // Anti-Pattern Refactor
-        final String checkFullName = getSourceName(); // Anti-Pattern Refactor
-        final int lastDotIndex = checkFullName.lastIndexOf('.'); // Anti-Pattern Refactor
-        String checkShortName = checkFullName.substring(lastDotIndex + 1); // Anti-Pattern Refactor
-        if (checkShortName.endsWith(suffix)) { // Anti-Pattern Refactor
-            final int endIndex = checkShortName.length() - suffix.length(); // Anti-Pattern Refactor
-            checkShortName = checkShortName.substring(0, endIndex); // Anti-Pattern Refactor
+    public String getCheckShortName(String suffix) {
+        final String checkFullName = getSourceName();
+        final int lastDotIndex = checkFullName.lastIndexOf('.');
+        String checkShortName = checkFullName.substring(lastDotIndex + 1);
+        if (checkShortName.endsWith(suffix)) {
+            final int endIndex = checkShortName.length() - suffix.length();
+            checkShortName = checkShortName.substring(0, endIndex);
         }
-        return checkShortName; // Anti-Pattern Refactor
+        return checkShortName;
     }
 
     /**
@@ -214,16 +196,16 @@ public final class AuditEvent {
      * @param suffix suffix to strip when falling back to the check's short class name
      * @return module identifier or short check name
      */
-    public String getSourceIdentifier(String suffix) { // Anti-Pattern Refactor
-        final String moduleId = getModuleId(); // Anti-Pattern Refactor
-        final String identifier; // Anti-Pattern Refactor
-        if (moduleId == null) { // Anti-Pattern Refactor
-            identifier = getCheckShortName(suffix); // Anti-Pattern Refactor
+    public String getSourceIdentifier(String suffix) {
+        final String moduleId = getModuleId();
+        final String identifier;
+        if (moduleId == null) {
+            identifier = getCheckShortName(suffix);
         }
         else {
-            identifier = moduleId; // Anti-Pattern Refactor
+            identifier = moduleId;
         }
-        return identifier; // Anti-Pattern Refactor
+        return identifier;
     }
 
 }

@@ -176,12 +176,6 @@ public final class ImportControlLoader extends XmlLoader {
                              String qualifiedName,
                              Attributes attributes)
             throws SAXException {
-        // Code Smell Refactor (Long Method inside ComplexClass): startElement used to hold
-        // the full body of all four XML element cases (about 30 lines, 4 branches and many
-        // locals). Thought process: each branch does one self-contained job, so each is
-        // extracted into a small, named private method and startElement is left as a plain
-        // dispatcher. Why it works the same: the extracted code is copied verbatim and is
-        // invoked under exactly the same conditions, in the same order.
         if ("import-control".equals(qualifiedName)) {
             startImportControlElement(attributes);
         }
@@ -198,8 +192,7 @@ public final class ImportControlLoader extends XmlLoader {
     }
 
     /**
-     * Code Smell Refactor: extracted from {@code startElement}. Handles the root
-     * "import-control" element by pushing a new top-level package control.
+     * Handles the root "import-control" element by pushing a new top-level package control.
      *
      * @param attributes the attributes attached to the element.
      * @throws SAXException if a required attribute is missing.
@@ -212,8 +205,7 @@ public final class ImportControlLoader extends XmlLoader {
     }
 
     /**
-     * Code Smell Refactor: extracted from {@code startElement}. Handles a "subpackage"
-     * element by attaching a child package control to the current parent.
+     * Handles a "subpackage" element by attaching a child package control to the current parent.
      *
      * @param attributes the attributes attached to the element.
      * @throws SAXException if a required attribute is missing.
@@ -230,8 +222,7 @@ public final class ImportControlLoader extends XmlLoader {
     }
 
     /**
-     * Code Smell Refactor: extracted from {@code startElement}. Handles a "file" element
-     * by attaching a child file control to the current parent.
+     * Handles a "file" element by attaching a child file control to the current parent.
      *
      * @param attributes the attributes attached to the element.
      * @throws SAXException if a required attribute is missing.

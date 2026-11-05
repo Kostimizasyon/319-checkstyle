@@ -37,15 +37,6 @@ import net.sf.saxon.type.Type;
 
 /**
  * Represents DetailAST's root node of Xpath-tree.
- *
- * <p>Code Smell Refactor (SpeculativeGenerality / OneChildClass): PTIDEJ flagged
- * {@code AbstractRootNode} because it was an abstract class with exactly one child
- * ({@code RootNode}, NOC = 1). The abstraction was speculative: nothing else ever
- * extended it, so the extra level of inheritance only added a file and an indirection
- * for readers. Thought process: instead of keeping a hierarchy that has no second
- * implementation, the members of {@code AbstractRootNode} are folded into this class
- * (Collapse Hierarchy) and {@code RootNode} now extends {@link AbstractNode} directly.
- * Behaviour is unchanged because every inherited member is copied verbatim.
  */
 public class RootNode extends AbstractNode {
 
@@ -64,13 +55,9 @@ public class RootNode extends AbstractNode {
      * @param detailAst reference to {@code DetailAST}
      */
     public RootNode(DetailAST detailAst) {
-        // Code Smell Refactor: the super constructor call that used to live in
-        // AbstractRootNode now happens here directly.
         super(new GenericTreeInfo(Configuration.newConfiguration()));
         this.detailAst = detailAst;
     }
-
-    // Code Smell Refactor: members below were moved here from AbstractRootNode.
 
     /**
      * Compares current object with specified for order.

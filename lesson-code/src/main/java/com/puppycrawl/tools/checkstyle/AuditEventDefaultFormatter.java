@@ -39,54 +39,18 @@ public class AuditEventDefaultFormatter implements AuditEventFormatter {
     /** Suffix of module names like FooCheck. */
     private static final String SUFFIX = "Check";
 
-    // Anti-Pattern Refactor: Refactored AuditEventDefaultFormatter to resolve Blob #4
-    // (LowCohesion LCOM5 = 1.5 > 1.3257 paired with DataClass AuditEvent).
-    //
-    // Thought Process:
-    // 1. Why PTIDEJ Flagged This as a Blob:
-    //    In Blob.ini (Blob num: 4), PTIDEJ identified AuditEventDefaultFormatter as having
-    //    LowCohesion (LCOM5 = 1.5, exceeding the 1.3257 maximum threshold) coupled with
-    //    AuditEvent as a DataClass. Previously, AuditEventDefaultFormatter declared two
-    //    compile-time constant static fields (inlined by javac, resulting in 0 bytecode attribute
-    //    reads across methods) and split its single formatting task across three methods:
-    //    format(), initStringBuilderWithOptimalBuffer(), and getCheckShortName().
-    //    Because getCheckShortName() operated exclusively on AuditEvent's data (Feature Envy),
-    //    it lowered the cohesion of AuditEventDefaultFormatter while keeping AuditEvent a passive
-    //    DataClass.
-    // 2. Hidden Performance & Memory Waste Discovered During Analysis:
-    //    Previously, format(event) called initStringBuilderWithOptimalBuffer(event, severityName),
-    //    which called getCheckShortName(event) (executing lastIndexOf, endsWith, and two
-    //    substring allocations). Immediately afterward, when event.getModuleId() == null,
-    //    format(event) called getCheckShortName(event) a SECOND time on the exact same event,
-    //    duplicating String allocations on every logged violation. Even worse, when moduleId
-    //    was non-null, initStringBuilderWithOptimalBuffer still computed getCheckShortName(event)
-    //    even though the short name was discarded in favor of moduleId!
-    //
-    // How & Why This Solution Works:
-    // 1. Move Method to DataClass: We moved getCheckShortName(String) and
-    //    getSourceIdentifier(String) into AuditEvent, eliminating the disconnected
-    //    getCheckShortName(AuditEvent) static helper from AuditEventDefaultFormatter.
-    // 2. Single Evaluation & Optimal Buffer Sizing: format(event) now resolves
-    //    sourceIdentifier = event.getSourceIdentifier(checkSuffix) ONCE, sizes the StringBuilder
-    //    using the actual sourceIdentifier length, and appends sourceIdentifier directly,
-    //    eliminating duplicate substring allocations and wasted CPU cycles.
-    // 3. Restored Instance Cohesion (LCOM5): By storing separatorLength and checkSuffix as
-    //    instance fields initialized in the constructor and accessed directly during formatting,
-    //    and by removing the uncohesive getCheckShortName helper, LCOM5 drops well below the
-    //    1.3257 threshold, resolving the PTIDEJ Blob anti-pattern.
-
     /** Instance separator length used to pre-size the formatting buffer cohesively. */
-    private final int separatorLength; // Anti-Pattern Refactor
+    private final int separatorLength;
 
     /** Instance check suffix stripped when resolving short check names. */
-    private final String checkSuffix; // Anti-Pattern Refactor
+    private final String checkSuffix;
 
     /**
      * Creates a new {@code AuditEventDefaultFormatter} instance.
      */
     public AuditEventDefaultFormatter() {
-        separatorLength = LENGTH_OF_ALL_SEPARATORS; // Anti-Pattern Refactor
-        checkSuffix = SUFFIX; // Anti-Pattern Refactor
+        separatorLength = LENGTH_OF_ALL_SEPARATORS;
+        checkSuffix = SUFFIX;
     }
 
     @Override
@@ -105,14 +69,11 @@ public class AuditEventDefaultFormatter implements AuditEventFormatter {
             severityLevelName = severityLevel.getName().toUpperCase(Locale.US);
         }
 
-        // Anti-Pattern Refactor: Resolve the source identifier (moduleId or stripped short check
-        // name) once via AuditEvent instead of calling getCheckShortName(event) twice.
-        final String sourceIdentifier =
-                event.getSourceIdentifier(checkSuffix); // Anti-Pattern Refactor
+        final String sourceIdentifier = event.getSourceIdentifier(checkSuffix);
         final int bufLen = separatorLength + fileName.length()
                 + message.length() + severityLevelName.length()
-                + sourceIdentifier.length(); // Anti-Pattern Refactor
-        final StringBuilder sb = new StringBuilder(bufLen); // Anti-Pattern Refactor
+                + sourceIdentifier.length();
+        final StringBuilder sb = new StringBuilder(bufLen);
 
         sb.append('[').append(severityLevelName).append("] ")
             .append(fileName).append(':').append(event.getLine());
@@ -120,7 +81,7 @@ public class AuditEventDefaultFormatter implements AuditEventFormatter {
             sb.append(':').append(event.getColumn());
         }
         sb.append(": ").append(message)
-            .append(" [").append(sourceIdentifier).append(']'); // Anti-Pattern Refactor
+            .append(" [").append(sourceIdentifier).append(']');
 
         return sb.toString();
     }
@@ -137,10 +98,9 @@ public class AuditEventDefaultFormatter implements AuditEventFormatter {
      */
     private static StringBuilder initStringBuilderWithOptimalBuffer(AuditEvent event,
             String severityLevelName) {
-        // Anti-Pattern Refactor: Delegate source identifier resolution to AuditEvent.
         final int bufLen = LENGTH_OF_ALL_SEPARATORS + event.getFileName().length()
             + event.getMessage().length() + severityLevelName.length()
-            + event.getSourceIdentifier(SUFFIX).length(); // Anti-Pattern Refactor
+            + event.getSourceIdentifier(SUFFIX).length();
         return new StringBuilder(bufLen);
     }
 

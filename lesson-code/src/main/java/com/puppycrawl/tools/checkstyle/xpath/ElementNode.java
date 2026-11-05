@@ -42,15 +42,6 @@ import net.sf.saxon.type.Type;
 
 /**
  * Represents DetailAST's element node of Xpath-tree.
- *
- * <p>Code Smell Refactor (SpeculativeGenerality / OneChildClass): PTIDEJ flagged
- * {@code AbstractElementNode} because it was an abstract class with a single child
- * ({@code ElementNode}, NOC = 1). Thought process: an abstract base only pays off when
- * there are several implementations of the abstract hook ({@code createAttributeNode}),
- * and here there was exactly one, so the hierarchy was speculative. Fix (Collapse
- * Hierarchy): all fields and methods of {@code AbstractElementNode} were merged into this
- * class, the abstract hook became a private method, and the class now extends
- * {@link AbstractNode} directly. Behaviour is identical.
  */
 public class ElementNode extends AbstractNode {
 
@@ -330,9 +321,6 @@ public class ElementNode extends AbstractNode {
     private static UnsupportedOperationException throwUnsupportedOperationException() {
         return new UnsupportedOperationException("Operation is not supported");
     }
-
-    // Code Smell Refactor: methods below were moved here from the old ElementNode subclass
-    // together with the former abstract hook.
 
     /**
      * Iterates children of the current node and
