@@ -23,11 +23,37 @@ import java.util.List;
 
 import com.puppycrawl.tools.checkstyle.api.DetailAST;
 import com.puppycrawl.tools.checkstyle.utils.XpathUtil;
+import com.puppycrawl.tools.checkstyle.xpath.iterators.DescendantIterator;
+import net.sf.saxon.Configuration;
+import net.sf.saxon.om.AxisInfo;
+import net.sf.saxon.om.GenericTreeInfo;
+import net.sf.saxon.om.NamespaceUri;
+import net.sf.saxon.om.NodeInfo;
+import net.sf.saxon.tree.iter.ArrayIterator;
+import net.sf.saxon.tree.iter.AxisIterator;
+import net.sf.saxon.tree.iter.EmptyIterator;
+import net.sf.saxon.tree.iter.SingleNodeIterator;
+import net.sf.saxon.type.Type;
 
 /**
  * Represents DetailAST's root node of Xpath-tree.
+ *
+ * <p>Code Smell Refactor (SpeculativeGenerality / OneChildClass): PTIDEJ flagged
+ * {@code AbstractRootNode} because it was an abstract class with exactly one child
+ * ({@code RootNode}, NOC = 1). The abstraction was speculative: nothing else ever
+ * extended it, so the extra level of inheritance only added a file and an indirection
+ * for readers. Thought process: instead of keeping a hierarchy that has no second
+ * implementation, the members of {@code AbstractRootNode} are folded into this class
+ * (Collapse Hierarchy) and {@code RootNode} now extends {@link AbstractNode} directly.
+ * Behaviour is unchanged because every inherited member is copied verbatim.
  */
-public class RootNode extends AbstractRootNode {
+public class RootNode extends AbstractNode {
+
+    /** Name of the root element. */
+    private static final String ROOT_NAME = "ROOT";
+
+    /** Constant for optimization. */
+    private static final AbstractNode[] EMPTY_ABSTRACT_NODE_ARRAY = new AbstractNode[0];
 
     /** The ast node. */
     private final DetailAST detailAst;
@@ -38,7 +64,138 @@ public class RootNode extends AbstractRootNode {
      * @param detailAst reference to {@code DetailAST}
      */
     public RootNode(DetailAST detailAst) {
+        // Code Smell Refactor: the super constructor call that used to live in
+        // AbstractRootNode now happens here directly.
+        super(new GenericTreeInfo(Configuration.newConfiguration()));
         this.detailAst = detailAst;
+    }
+
+    // Code Smell Refactor: members below were moved here from AbstractRootNode.
+
+    /**
+     * Compares current object with specified for order.
+     * Throws {@code UnsupportedOperationException} because functionality not required here.
+     *
+     * @param nodeInfo another {@code NodeInfo} object
+     * @return number representing order of current object to specified one
+     */
+    @Override
+    public int compareOrder(NodeInfo nodeInfo) {
+        throw throwUnsupportedOperationException();
+    }
+
+    /**
+     * Returns attribute value. Throws {@code UnsupportedOperationException} because root node
+     * has no attributes.
+     *
+     * @param namespace namespace
+     * @param localPart actual name of the attribute
+     * @return attribute value
+     */
+    @Override
+    public String getAttributeValue(NamespaceUri namespace, String localPart) {
+        throw throwUnsupportedOperationException();
+    }
+
+    /**
+     * Returns local part.
+     *
+     * @return local part
+     */
+    @Override
+    public String getLocalPart() {
+        return ROOT_NAME;
+    }
+
+    /**
+     * Returns type of the node.
+     *
+     * @return node kind
+     */
+    @Override
+    public int getNodeKind() {
+        return Type.DOCUMENT;
+    }
+
+    /**
+     * Returns parent.
+     *
+     * @return parent
+     */
+    @Override
+    public NodeInfo getParent() {
+        return null;
+    }
+
+    /**
+     * Returns root of the tree.
+     *
+     * @return root of the tree
+     */
+    @Override
+    public NodeInfo getRoot() {
+        return this;
+    }
+
+    /**
+     * Determines axis iteration algorithm. Throws {@code UnsupportedOperationException} in case,
+     * when there is no axis iterator for given axisNumber.
+     *
+     * @param axisNumber element from {@code AxisInfo}
+     * @return {@code AxisIterator} object
+     */
+    @Override
+    public AxisIterator iterateAxis(int axisNumber) {
+        return switch (axisNumber) {
+            case AxisInfo.ANCESTOR,
+                 AxisInfo.PARENT,
+                 AxisInfo.FOLLOWING,
+                 AxisInfo.FOLLOWING_SIBLING,
+                 AxisInfo.PRECEDING,
+                 AxisInfo.PRECEDING_SIBLING -> EmptyIterator.ofNodes();
+
+            case AxisInfo.ANCESTOR_OR_SELF,
+                 AxisInfo.SELF -> SingleNodeIterator.makeIterator(this);
+
+            case AxisInfo.CHILD -> {
+                if (hasChildNodes()) {
+                    yield new ArrayIterator.OfNodes<>(
+                            getChildren().toArray(EMPTY_ABSTRACT_NODE_ARRAY));
+                }
+                yield EmptyIterator.ofNodes();
+            }
+
+            case AxisInfo.DESCENDANT -> {
+                if (hasChildNodes()) {
+                    yield new DescendantIterator(this, DescendantIterator.StartWith.CHILDREN);
+                }
+                yield EmptyIterator.ofNodes();
+            }
+
+            case AxisInfo.DESCENDANT_OR_SELF ->
+                new DescendantIterator(this, DescendantIterator.StartWith.CURRENT_NODE);
+
+            default -> throw throwUnsupportedOperationException();
+        };
+    }
+
+    /**
+     * Getter method for node depth.
+     *
+     * @return always {@code 0}
+     */
+    @Override
+    public int getDepth() {
+        return 0;
+    }
+
+    /**
+     * Returns UnsupportedOperationException exception.
+     *
+     * @return UnsupportedOperationException exception
+     */
+    private static UnsupportedOperationException throwUnsupportedOperationException() {
+        return new UnsupportedOperationException("Operation is not supported");
     }
 
     /**

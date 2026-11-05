@@ -3,7 +3,7 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R] /Count 6 >>
+<< /Type /Pages /Kids [8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R] /Count 7 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
@@ -96,7 +96,7 @@ BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 124.09 Td (every time CheckStyle parse
 BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 110.29 Td (\(_interp.clearDFA\(\)\). Because this mutable static primitive is neither private nor synchronized,) Tj ET
 BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 96.49 Td (multi-threaded file checking triggers race conditions \(lost increments or concurrent resets\), leading to) Tj ET
 BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 82.69 Td (non-deterministic DFA cache clearing and memory/performance degradation.) Tj ET
-BT /F1 8.50 Tf 0.450 0.500 0.560 rg 201.25 28.00 Td (SENG 319 - Group Project 1 Report | Page 1 of 6) Tj ET
+BT /F1 8.50 Tf 0.450 0.500 0.560 rg 201.25 28.00 Td (SENG 319 - Group Project 1 Report | Page 1 of 7) Tj ET
 endstream
 endobj
 8 0 obj
@@ -149,7 +149,7 @@ BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 258.09 Td (methods on DfaClearCounter 
 BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 244.29 Td (count to 0 happen atomically in a single critical section, eliminating data races during concurrent file) Tj ET
 BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 230.49 Td (parsing.) Tj ET
 BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 213.49 Td (d. Refactored Code Snippet & PTIDEJ Verification Result:) Tj ET
-BT /F1 8.50 Tf 0.450 0.500 0.560 rg 201.25 28.00 Td (SENG 319 - Group Project 1 Report | Page 2 of 6) Tj ET
+BT /F1 8.50 Tf 0.450 0.500 0.560 rg 201.25 28.00 Td (SENG 319 - Group Project 1 Report | Page 2 of 7) Tj ET
 endstream
 endobj
 10 0 obj
@@ -211,7 +211,7 @@ BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 181.69 Td (inside format\(\) allocati
 BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 167.49 Td (whenever moduleId was present.) Tj ET
 BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 149.29 Td (b. Location Within the CheckStyle Codebase [Original Code Snippets]:) Tj ET
 BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 131.09 Td (File: src/main/java/com/puppycrawl/tools/checkstyle/AuditEventDefaultFormatter.java \(lines 65-117\):) Tj ET
-BT /F1 8.50 Tf 0.450 0.500 0.560 rg 201.25 28.00 Td (SENG 319 - Group Project 1 Report | Page 3 of 6) Tj ET
+BT /F1 8.50 Tf 0.450 0.500 0.560 rg 201.25 28.00 Td (SENG 319 - Group Project 1 Report | Page 3 of 7) Tj ET
 endstream
 endobj
 12 0 obj
@@ -270,7 +270,7 @@ BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 250.09 Td (getCheckShortName static me
 BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 236.29 Td (LCOM5_MaxBound = 1.3257575861432334\).) Tj ET
 BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 219.29 Td (d. Refactored Code Snippets & PTIDEJ Verification Result:) Tj ET
 BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 201.09 Td (1. In src/main/java/com/puppycrawl/tools/checkstyle/api/AuditEvent.java:) Tj ET
-BT /F1 8.50 Tf 0.450 0.500 0.560 rg 201.25 28.00 Td (SENG 319 - Group Project 1 Report | Page 4 of 6) Tj ET
+BT /F1 8.50 Tf 0.450 0.500 0.560 rg 201.25 28.00 Td (SENG 319 - Group Project 1 Report | Page 4 of 7) Tj ET
 endstream
 endobj
 14 0 obj
@@ -339,14 +339,14 @@ BT /F2 13.50 Tf 0.100 0.230 0.540 rg 48.00 126.69 Td (Part II: Code Smells) Tj E
 BT /F2 11.50 Tf 0.120 0.250 0.580 rg 48.00 95.69 Td (1. Code Smells Detected by PTIDEJ) Tj ET
 BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 79.69 Td (The table below lists all Code Smell types analysed by PTIDEJ in lesson-vm-out/design smells and their) Tj ET
 BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 65.49 Td (instance counts:) Tj ET
-BT /F1 8.50 Tf 0.450 0.500 0.560 rg 201.25 28.00 Td (SENG 319 - Group Project 1 Report | Page 5 of 6) Tj ET
+BT /F1 8.50 Tf 0.450 0.500 0.560 rg 201.25 28.00 Td (SENG 319 - Group Project 1 Report | Page 5 of 7) Tj ET
 endstream
 endobj
 16 0 obj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 15 0 R >>
 endobj
 17 0 obj
-<< /Length 6373 >>
+<< /Length 10050 >>
 stream
 0.60 w 0.910 0.940 0.980 rg 0.750 0.800 0.880 RG 48.00 769.89 499.28 20.00 re B
 BT /F2 9.20 Tf 0.080 0.140 0.280 rg 54.00 776.39 Td (Code Smell Type) Tj ET
@@ -432,36 +432,122 @@ BT /F2 9.20 Tf 0.120 0.160 0.220 rg 54.00 490.29 Td (Total Code Smells) Tj ET
 BT /F2 9.20 Tf 0.120 0.160 0.220 rg 239.00 490.29 Td (114) Tj ET
 0.50 w 0.780 0.820 0.880 RG 298.00 503.49 m 298.00 481.29 l S
 BT /F2 9.20 Tf 0.120 0.160 0.220 rg 304.00 490.29 Td (Across 12 Code Smell categories) Tj ET
-BT /F3 10.00 Tf 0.400 0.450 0.520 rg 48.00 461.29 Td ([Part II Questions 2 & 3 will be populated as Code Smell refactorings are completed.]) Tj ET
-BT /F1 8.50 Tf 0.450 0.500 0.560 rg 201.25 28.00 Td (SENG 319 - Group Project 1 Report | Page 6 of 6) Tj ET
+BT /F2 11.50 Tf 0.120 0.250 0.580 rg 48.00 455.29 Td (2. Selected Code Smells and Justification) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 439.29 Td (We selected two Code Smells to refactor: \(1\) SpeculativeGenerality / OneChildClass \(2 instances) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 425.09 Td (detected, both in the xpath package: AbstractRootNode and AbstractElementNode, each an abstract class) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 410.89 Td (with exactly one child, NOC = 1\) and \(2\) the long-method problem inside a ComplexClass) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 396.69 Td (\(ImportControlLoader, NMD+NAD = 41 > 40.5, whose startElement method packs four XML cases into one) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 382.49 Td (body\). OneChildClass abstractions are pointless: they add a file and an indirection with no second) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 368.29 Td (implementation, bloating the codebase and costing readers effort. They are easy to fix and give a clear) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 354.09 Td (maintenance benefit. Long methods are hard to maintain, so they are split into small, named methods.) Tj ET
+BT /F2 11.50 Tf 0.120 0.250 0.580 rg 48.00 329.89 Td (3. Refactoring of the Selected Code Smells) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 313.89 Td (Smell A: SpeculativeGenerality \(OneChildClass\) - AbstractRootNode and AbstractElementNode) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 295.69 Td (a. Location: com.puppycrawl.tools.checkstyle.xpath.AbstractRootNode \(only child RootNode\) and) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 281.49 Td (com.puppycrawl.tools.checkstyle.xpath.AbstractElementNode \(only child ElementNode\), from) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 267.29 Td (SpeculativeGenerality.ini.) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 249.09 Td (b. Steps to Refactor and Justification:) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 231.09 Td (-) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 231.09 Td (Step 1 \(Collapse Hierarchy, root\): All members of AbstractRootNode \(constants, compareOrder,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 217.29 Td (getAttributeValue, getLocalPart, getNodeKind, getParent, getRoot, iterateAxis, getDepth\) were moved) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 203.49 Td (verbatim into RootNode, and the super\(new GenericTreeInfo\(...\)\) call moved into the RootNode) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 189.69 Td (constructor. RootNode now extends AbstractNode directly. AbstractRootNode.java was deleted.) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 172.89 Td (-) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 172.89 Td (Step 2 \(Collapse Hierarchy, element\): All members of AbstractElementNode were merged into) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 159.09 Td (ElementNode, with the single abstract hook createAttributeNode\(\) becoming a private method \(nothing) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 145.29 Td (else overrides it\). ElementNode now extends AbstractNode directly and AbstractElementNode.java was) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 131.49 Td (deleted. The text-attribute constant became private because no subclass needs it any more.) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 114.69 Td (-) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 114.69 Td (Why it works: Code was moved without logic changes and nothing else referenced the abstract classes) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 100.89 Td (\(checked by search\), so behaviour is identical while the hierarchy is two classes smaller.) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 83.89 Td (c. Refactored Code Snippets:) Tj ET
+BT /F1 8.50 Tf 0.450 0.500 0.560 rg 201.25 28.00 Td (SENG 319 - Group Project 1 Report | Page 6 of 7) Tj ET
 endstream
 endobj
 18 0 obj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 17 0 R >>
 endobj
+19 0 obj
+<< /Length 5448 >>
+stream
+0.60 w 0.965 0.975 0.990 rg 0.820 0.860 0.920 RG 48.00 617.09 499.28 172.80 re B
+0.00 w 0.150 0.390 0.920 rg 48.00 617.09 3.00 172.80 re f
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 774.69 Td (// RootNode.java  \(Code Smell Refactor\)) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 763.49 Td (public class RootNode extends AbstractNode { // was: extends AbstractRootNode) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 752.29 Td (    public RootNode\(DetailAST detailAst\) {) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 741.09 Td (        super\(new GenericTreeInfo\(Configuration.newConfiguration\(\)\)\);) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 729.89 Td (        this.detailAst = detailAst;) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 718.69 Td (    }) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 707.49 Td (    ... // members moved here from AbstractRootNode) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 696.29 Td (}) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 685.09 Td () Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 673.89 Td (// ElementNode.java  \(Code Smell Refactor\)) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 662.69 Td (public class ElementNode extends AbstractNode { // was: extends AbstractElementNode) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 651.49 Td (    private AttributeNode createAttributeNode\(\) { ... } // was an abstract hook) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 640.29 Td (    ... // members moved here from AbstractElementNode) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 629.09 Td (}) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 599.09 Td (d. Result: mvn compile succeeds and Checkstyle still builds and parses files \(Main -t\). Both OneChildClass) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 584.89 Td (instances are gone because the abstract classes no longer exist, so SpeculativeGenerality drops from 2 to) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 570.69 Td (0.) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 552.49 Td (Smell B: Long Method in ComplexClass - ImportControlLoader.startElement) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 534.29 Td (a. Location: com.puppycrawl.tools.checkstyle.checks.imports.ImportControlLoader \(ComplexClass #2,) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 520.09 Td (NMD+NAD = 41 > 40.5\), method startElement.) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 501.89 Td (b. Steps to Refactor and Justification:) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 483.89 Td (-) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 483.89 Td (Step 1 \(Extract Method\): startElement had four branches \(import-control, subpackage, file, rule\), each) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 470.09 Td (with several locals. Each of the first three branches was extracted into its own private method:) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 456.29 Td (startImportControlElement, startSubpackageElement and startFileElement.) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 439.49 Td (-) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 439.49 Td (Step 2 \(Dispatcher\): startElement is now a short if/else dispatcher with the same conditions in the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 425.69 Td (same order, so behaviour is unchanged and each case can be read, tested and changed in isolation.) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 408.69 Td (c. Refactored Code Snippet:) Tj ET
+0.60 w 0.965 0.975 0.990 rg 0.820 0.860 0.920 RG 48.00 250.09 499.28 150.40 re B
+0.00 w 0.150 0.390 0.920 rg 48.00 250.09 3.00 150.40 re f
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 385.29 Td (    public void startElement\(...\) throws SAXException {) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 374.09 Td (        if \("import-control".equals\(qualifiedName\)\) {) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 362.89 Td (            startImportControlElement\(attributes\); // Code Smell Refactor) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 351.69 Td (        }) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 340.49 Td (        else if \(SUBPACKAGE_ELEMENT_NAME.equals\(qualifiedName\)\) {) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 329.29 Td (            startSubpackageElement\(attributes\); // Code Smell Refactor) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 318.09 Td (        }) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 306.89 Td (        else if \(FILE_ELEMENT_NAME.equals\(qualifiedName\)\) {) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 295.69 Td (            startFileElement\(attributes\); // Code Smell Refactor) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 284.49 Td (        }) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 273.29 Td (        else { ... createImportRule\(...\) ... }) Tj ET
+BT /F4 8.20 Tf 0.100 0.140 0.220 rg 58.00 262.09 Td (    }) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 232.09 Td (d. Result: the compile succeeds and startElement is reduced from about 30 lines to 15, with no branch) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 217.89 Td (holding more than one call. Note: the ComplexClass metric counts methods plus attributes, so the) Tj ET
+BT /F1 10.00 Tf 0.150 0.180 0.240 rg 48.00 203.69 Td (class-level flag may remain; the long-method problem itself is resolved.) Tj ET
+BT /F1 8.50 Tf 0.450 0.500 0.560 rg 201.25 28.00 Td (SENG 319 - Group Project 1 Report | Page 7 of 7) Tj ET
+endstream
+endobj
+20 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 19 0 R >>
+endobj
 xref
-0 19
+0 21
 0000000000 65535 f 
 0000000009 00000 n 
 0000000058 00000 n 
-0000000150 00000 n 
-0000000247 00000 n 
-0000000349 00000 n 
-0000000454 00000 n 
-0000000549 00000 n 
-0000008608 00000 n 
-0000008770 00000 n 
-0000014198 00000 n 
-0000014361 00000 n 
-0000020618 00000 n 
-0000020782 00000 n 
-0000026692 00000 n 
-0000026856 00000 n 
-0000033404 00000 n 
-0000033568 00000 n 
-0000039994 00000 n 
+0000000157 00000 n 
+0000000254 00000 n 
+0000000356 00000 n 
+0000000461 00000 n 
+0000000556 00000 n 
+0000008615 00000 n 
+0000008777 00000 n 
+0000014205 00000 n 
+0000014368 00000 n 
+0000020625 00000 n 
+0000020789 00000 n 
+0000026699 00000 n 
+0000026863 00000 n 
+0000033411 00000 n 
+0000033575 00000 n 
+0000043679 00000 n 
+0000043843 00000 n 
+0000049344 00000 n 
 trailer
-<< /Size 19 /Root 1 0 R >>
+<< /Size 21 /Root 1 0 R >>
 startxref
-40158
+49508
 %%EOF
