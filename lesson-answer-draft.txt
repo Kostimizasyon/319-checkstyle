@@ -36,4 +36,13 @@
 
 # 2
 
-  I select 
+  I select one child classes as they are just pointless and are a waste of sanity
+  effort and memory alltogether, they have no reason to exist they shoul jsut be oen
+  class it just bloats up the codebase, fieldpublic could cause some issues, long method
+  class is also a contender here as there is no reason to bloat up a method that long 
+  it will just cause maintainece hell. Class one method is also a contender as it is 
+  also just bloat.
+
+  I will fix onechild classes and long method class as onechild classes arer quite easy
+  to fix and give decent results in termns of sanity and maintainance ease, and longmethods
+  arer just gonna be broken up to smaller methods.
