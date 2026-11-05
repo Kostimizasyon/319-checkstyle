@@ -1,0 +1,77 @@
+================================================================================
+NOTE FOR NEXT AGENT: TEMPORARY EXPLANATORY COMMENTS & REFACTORING LABELS
+================================================================================
+
+To whoever is reading this:
+During the Anti-Pattern and Code Smell refactoring tasks, detailed inline comments
+and labels (tagged with "Anti-Pattern Refactor" and "Code Smell Refactor") were added
+to explain the thought process, why each solution was chosen, and how the fix works.
+
+The user specifically requested these extensive explanations so they could inspect
+and evaluate the changes. When the user asks you to "delete the comments" or "clean
+up comments", this file documents exactly which files contain them, what lines they
+touch, and what to keep vs delete.
+
+--------------------------------------------------------------------------------
+RULES WHEN CLEANING UP COMMENTS
+--------------------------------------------------------------------------------
+1. Only remove the custom explanatory comments containing:
+   - "Anti-Pattern Refactor"
+   - "Code Smell Refactor"
+   - Explanatory paragraphs detailing PTIDEJ metrics, LCOM5, NOC, thought process, etc.
+2. DO NOT delete legitimate, standard Javadoc required by Checkstyle (such as param/return
+   tags, standard method descriptions), otherwise the checkstyle self-check build will fail!
+3. DO NOT change the actual logic or method signatures while removing comments.
+4. Verify code compiles with:
+   mvn -o -q compile
+5. Also make sure Checkstyle max line length <= 100 is respected if reformatting.
+
+--------------------------------------------------------------------------------
+FILES AND EXACT LOCATIONS OF EXPLANATORY COMMENTS
+--------------------------------------------------------------------------------
+
+1. JavaLanguageParser.g4
+   Location: lesson-code/src/main/resources/com/puppycrawl/tools/checkstyle/grammar/java/JavaLanguageParser.g4
+   - Comments around line 55-80: Explaining Anti-Pattern Refactor of fileCounter and
+     the introduction of DFA_CLEAR_COUNTER.
+   - Comments around line 80-125: Block comment preceding and inside DfaClearCounter
+     explaining why encapsulation and synchronized tick() solve the AntiSingleton.
+
+2. AuditEventDefaultFormatter.java
+   Location: lesson-code/src/main/java/com/puppycrawl/tools/checkstyle/AuditEventDefaultFormatter.java
+   - Class-level Javadoc / comments around lines 40-55: Explaining Blob #4 refactoring,
+     LCOM5 metric drop below 1.3257, and removal of uncohesive static helper.
+   - Inline comments on fields `separatorLength`, `checkSuffix`: "// Anti-Pattern Refactor"
+   - Inline comments inside constructor and `format()` method:
+     "// Anti-Pattern Refactor: compute event.getSourceIdentifier(checkSuffix) exactly once..."
+
+3. AuditEvent.java
+   Location: lesson-code/src/main/java/com/puppycrawl/tools/checkstyle/api/AuditEvent.java
+   - Javadoc and inline comments around lines 175-230 on methods `getCheckShortName(String suffix)`
+     and `getSourceIdentifier(String suffix)` explaining Blob DataClass refactor and curing
+     Feature Envy.
+   - Multiple lines tagged with "// Anti-Pattern Refactor".
+
+4. RootNode.java
+   Location: lesson-code/src/main/java/com/puppycrawl/tools/checkstyle/xpath/RootNode.java
+   - Class Javadoc around lines 35-50: Explaining SpeculativeGenerality / OneChildClass
+     (folding AbstractRootNode into RootNode, Collapse Hierarchy).
+   - Comments around line 60: Explaining super constructor call from AbstractRootNode.
+   - Comment around line 70: "// Code Smell Refactor: members below were moved here from AbstractRootNode."
+
+5. ElementNode.java
+   Location: lesson-code/src/main/java/com/puppycrawl/tools/checkstyle/xpath/ElementNode.java
+   - Class Javadoc around lines 40-55: Explaining SpeculativeGenerality / OneChildClass
+     (folding AbstractElementNode into ElementNode, turning abstract hook createAttributeNode into private).
+   - Comments around line 335: "// Code Smell Refactor: methods below were moved here from the old ElementNode subclass..."
+
+6. ImportControlLoader.java
+   Location: lesson-code/src/main/java/com/puppycrawl/tools/checkstyle/checks/imports/ImportControlLoader.java
+   - Comments inside `startElement()` around lines 175-185: Explaining Long Method extraction
+     inside ComplexClass.
+   - Javadoc comments above `startImportControlElement`, `startSubpackageElement`,
+     and `startFileElement`: "Code Smell Refactor: extracted from startElement..."
+
+================================================================================
+End of instructions
+================================================================================
