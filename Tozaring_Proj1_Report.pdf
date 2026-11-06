@@ -18,7 +18,7 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
 endobj
 7 0 obj
-<< /Length 24975 >>
+<< /Length 24326 >>
 stream
 0.930 0.950 0.990 rg 48.00 729.89 499.28 60.00 re f
 1 w 0.750 0.820 0.940 RG 48.00 729.89 499.28 60.00 re S
@@ -368,39 +368,29 @@ BT /F4 9.00 Tf 0.620 0.120 0.280 rg 149.55 93.49 Td (Blob) Tj ET
 BT /F1 9.80 Tf 0.150 0.180 0.240 rg 175.89 93.49 Td (and) Tj ET
 0.925 0.940 0.965 rg 193.42 91.29 73.20 12.00 re f
 BT /F4 9.00 Tf 0.620 0.120 0.280 rg 194.92 93.49 Td (AntiSingleton) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 267.12 93.49 Td (.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 272.61 93.49 Td (There) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 302.21 93.49 Td (are) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 320.24 93.49 Td (few) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 341.21 93.49 Td (instances) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 387.47 93.49 Td (of) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 400.40 93.49 Td (them,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 429.22 93.49 Td (they) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 452.34 93.49 Td (are) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 470.38 93.49 Td (severe,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 506.44 93.49 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 524.47 93.49 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 79.49 Td (fixes) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 73.87 79.49 Td (are) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 91.90 79.49 Td (small) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 118.36 79.49 Td (but) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 136.40 79.49 Td (give) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 157.17 79.49 Td (a) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 165.01 79.49 Td (better) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 198.33 79.49 Td (result) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 229.30 79.49 Td (in) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 239.88 79.49 Td (safety,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 275.95 79.49 Td (performance) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 337.69 79.49 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 355.72 79.49 Td (maintainability) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 426.08 79.49 Td (than) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 449.21 79.49 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 467.24 79.49 Td (effort) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 500.56 79.49 Td (needed) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 65.49 Td (for) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 66.03 65.49 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 84.06 65.49 Td (other) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 112.29 65.49 Td (smells.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 269.87 93.49 Td (as) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 282.80 93.49 Td (they) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 305.93 93.49 Td (are) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 323.96 93.49 Td (severe) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 357.28 93.49 Td (issues) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 388.25 93.49 Td (where) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 419.42 93.49 Td (a) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 427.26 93.49 Td (small,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 456.46 93.49 Td (targeted) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 499.97 93.49 Td (fix) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 515.65 93.49 Td (gives) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 541.52 93.49 Td (a) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 79.49 Td (big) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 63.68 79.49 Td (gain) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 84.46 79.49 Td (in) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 95.04 79.49 Td (safety,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 131.10 79.49 Td (performance) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 192.84 79.49 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 210.88 79.49 Td (maintainability) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 281.24 79.49 Td (relative) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 320.05 79.49 Td (to) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 332.98 79.49 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 351.02 79.49 Td (effort.) Tj ET
 BT /F1 8.50 Tf 0.450 0.500 0.560 rg 177.19 28.00 Td (SENG 319 - Group Tozaring - Project 1 Report | Page 1 of 10) Tj ET
 endstream
 endobj
@@ -408,7 +398,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 7 0 R >>
 endobj
 9 0 obj
-<< /Length 18108 >>
+<< /Length 22285 >>
 stream
 BT /F2 11.50 Tf 0.120 0.250 0.500 rg 48.00 773.89 Td (3. Refactoring Two Anti-Pattern Instances) Tj ET
 BT /F2 10.20 Tf 0.180 0.320 0.550 rg 48.00 755.89 Td (Instance 1: AntiSingleton in JavaLanguageParser) Tj ET
@@ -416,266 +406,325 @@ BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 741.09 Td (a.) Tj ET
 BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 741.09 Td (Reason) Tj ET
 BT /F1 9.80 Tf 0.150 0.180 0.240 rg 93.28 741.09 Td (for) Tj ET
 BT /F1 9.80 Tf 0.150 0.180 0.240 rg 111.31 741.09 Td (choosing) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 152.47 741.09 Td (this) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 173.24 741.09 Td (instance:) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 723.09 Td (It) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 723.09 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 69.17 723.09 Td (quite) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 95.04 723.09 Td (easy) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 118.17 723.09 Td (to) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 131.10 723.09 Td (fix,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 149.53 723.09 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 167.56 723.09 Td (risk) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 188.34 723.09 Td (it) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 198.92 723.09 Td (removes) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 240.28 723.09 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 250.86 723.09 Td (large) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 276.73 723.09 Td (\(race) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 304.96 723.09 Td (conditions\),) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 361.80 723.09 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 379.83 723.09 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 397.86 723.09 Td (performance) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 459.60 723.09 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 477.63 723.09 Td (safety) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 510.95 723.09 Td (gain) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 531.73 723.09 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 709.09 Td (big) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 63.68 709.09 Td (compared) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 110.13 709.09 Td (to) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 123.07 709.09 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 141.10 709.09 Td (effort.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 177.16 709.09 Td (It) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 187.75 709.09 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 198.33 709.09 Td (also) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 219.11 709.09 Td (on) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 232.04 709.09 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 250.08 709.09 Td (hot) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 268.11 709.09 Td (path:) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 293.98 709.09 Td (a) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 301.82 709.09 Td (parser) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 335.14 709.09 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 345.72 709.09 Td (created) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 384.14 709.09 Td (for) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 402.17 709.09 Td (every) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 430.40 709.09 Td (Java) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 454.90 709.09 Td (file) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 473.32 709.09 Td (that) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 695.09 Td (CheckStyle) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 102.10 695.09 Td (checks.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 677.09 Td (b.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 677.09 Td (Location) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 101.12 677.09 Td (in) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 111.70 677.09 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 129.73 677.09 Td (CheckStyle) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 183.83 677.09 Td (code) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 206.96 677.09 Td (base) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 230.08 677.09 Td ([original) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 271.64 677.09 Td (code]:) Tj ET
-0.925 0.940 0.965 rg 47.50 656.89 343.20 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 49.00 659.09 Td (com.puppycrawl.tools.checkstyle.grammar.java.JavaLanguageParser) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 393.94 659.09 Td (\(defined) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 435.10 659.09 Td (in) Tj ET
-0.925 0.940 0.965 rg 47.50 642.89 116.40 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 49.00 645.09 Td (JavaLanguageParser.g4) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 164.40 645.09 Td (\):) Tj ET
-0.965 0.975 0.990 rg 48.00 499.89 499.28 137.00 re f
-0.6 w 0.820 0.860 0.920 RG 48.00 499.89 499.28 137.00 re S
-0.150 0.390 0.920 rg 48.00 499.89 3.00 137.00 re f
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 621.89 Td (    static int fileCounter = 0;) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 610.89 Td () Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 599.89 Td (    public JavaLanguageParser\(TokenStream input, int clearDfaLimit\) {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 588.89 Td (        super\(input\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 577.89 Td (        _interp = new ParserATNSimulator\(this, _ATN , _decisionToDFA, _sharedContextCache\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 566.89 Td (        fileCounter++;) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 555.89 Td (        if \(fileCounter > clearDfaLimit\) {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 544.89 Td (            _interp.clearDFA\(\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 533.89 Td (            fileCounter = 0;) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 522.89 Td (        }) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 511.89 Td (    }) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 482.09 Td (Why) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 68.97 482.09 Td (this) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 89.75 482.09 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.33 482.09 Td (a) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 108.17 482.09 Td (problem:) Tj ET
-BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 464.09 Td (-) Tj ET
-0.925 0.940 0.965 rg 63.50 461.89 62.40 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 464.09 Td (fileCounter) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 129.14 464.09 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 139.73 464.09 Td (a) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 147.57 464.09 Td (mutable) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 186.57 464.09 Td (static) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 217.54 464.09 Td (field,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 243.80 464.09 Td (so) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 256.74 464.09 Td (it) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 267.32 464.09 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 277.91 464.09 Td (global) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 306.52 464.09 Td (state) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 334.75 464.09 Td (shared) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 368.07 464.09 Td (by) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 381.00 464.09 Td (every) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 409.23 464.09 Td (parser) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 442.55 464.09 Td (in) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 453.13 464.09 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 471.16 464.09 Td (program,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 515.26 464.09 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 449.89 Td (any) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 82.03 449.89 Td (class) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 107.90 449.89 Td (in) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 118.49 449.89 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 136.52 449.89 Td (package) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 174.94 449.89 Td (can) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 192.97 449.89 Td (change) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 226.29 449.89 Td (it.) Tj ET
-BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 432.69 Td (-) Tj ET
-0.925 0.940 0.965 rg 63.50 430.49 73.20 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 432.69 Td (fileCounter++) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 137.20 432.69 Td (,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 142.69 432.69 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 160.72 432.69 Td (comparison) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 215.01 432.69 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 233.04 432.69 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 251.08 432.69 Td (reset) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 279.30 432.69 Td (to) Tj ET
-0.925 0.940 0.965 rg 291.74 430.49 8.40 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 293.24 432.69 Td (0) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 303.38 432.69 Td (are) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 321.41 432.69 Td (separate) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 364.92 432.69 Td (steps.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 395.89 432.69 Td (When) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 421.96 432.69 Td (files) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 445.48 432.69 Td (are) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 463.51 432.69 Td (checked) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 501.93 432.69 Td (on) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 418.49 Td (several) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.06 418.49 Td (threads,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 141.22 418.49 Td (increments) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 195.52 418.49 Td (can) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 213.55 418.49 Td (be) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 226.48 418.49 Td (lost) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 247.26 418.49 Td (or) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 260.20 418.49 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 278.23 418.49 Td (reset) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 306.45 418.49 Td (can) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 324.48 418.49 Td (happen) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 357.80 418.49 Td (twice,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 389.36 418.49 Td (so) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 402.30 418.49 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 420.33 418.49 Td (DFA) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 442.48 418.49 Td (cache) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 470.70 418.49 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 481.28 418.49 Td (cleared) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 517.35 418.49 Td (at) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 530.28 418.49 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 404.29 Td (wrong) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 95.16 404.29 Td (time) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 118.88 404.29 Td (\(memory) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 163.18 404.29 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 181.21 404.29 Td (speed) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 209.43 404.29 Td (problems\).) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 387.09 Td (c.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 387.09 Td (Steps) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 88.18 387.09 Td (to) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 101.12 387.09 Td (refactor) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 144.63 387.09 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 162.66 387.09 Td (justification:) Tj ET
-BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 369.09 Td (-) Tj ET
-BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 369.09 Td (Step) Tj ET
-BT /F2 9.80 Tf 0.150 0.180 0.240 rg 89.81 369.09 Td (1:) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.86 369.09 Td (Create) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 135.55 369.09 Td (a) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 143.39 369.09 Td (small) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 169.85 369.09 Td (class) Tj ET
-0.925 0.940 0.965 rg 195.22 366.89 84.00 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 196.72 369.09 Td (DfaClearCounter) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 282.47 369.09 Td (inside) Tj ET
-0.925 0.940 0.965 rg 310.58 366.89 116.40 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 312.08 369.09 Td (JavaLanguageParser.g4) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 430.23 369.09 Td (\(in) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 445.91 369.09 Td (the) Tj ET
-0.925 0.940 0.965 rg 63.50 352.69 89.40 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 354.89 Td (@parser::members) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 156.14 354.89 Td (block\)) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 187.11 354.89 Td (that) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 210.24 354.89 Td (owns) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 236.31 354.89 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 254.34 354.89 Td (counter) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 292.76 354.89 Td (as) Tj ET
-0.925 0.940 0.965 rg 305.19 352.69 40.80 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 306.69 354.89 Td (private) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 349.24 354.89 Td (fields) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 377.85 354.89 Td (\() Tj ET
-0.925 0.940 0.965 rg 382.45 352.69 30.00 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 383.95 354.89 Td (limit) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 412.95 354.89 Td (,) Tj ET
-0.925 0.940 0.965 rg 417.94 352.69 30.00 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 419.44 354.89 Td (count) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 448.44 354.89 Td (\).) Tj ET
-BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 337.69 Td (-) Tj ET
-BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 337.69 Td (Step) Tj ET
-BT /F2 9.80 Tf 0.150 0.180 0.240 rg 89.81 337.69 Td (2:) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.86 337.69 Td (Replace) Tj ET
-0.925 0.940 0.965 rg 137.80 335.49 121.80 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 139.30 337.69 Td (static int fileCounter) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 262.84 337.69 Td (with) Tj ET
-0.925 0.940 0.965 rg 63.50 321.29 294.60 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 323.49 Td (private static final DfaClearCounter DFA_CLEAR_COUNTER) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 358.60 323.49 Td (.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 364.09 323.49 Td (The) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 383.49 323.49 Td (reference) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 432.10 323.49 Td (can) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 450.13 323.49 Td (no) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 463.07 323.49 Td (longer) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 494.04 323.49 Td (be) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 309.29 Td (reassigned) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 115.35 309.29 Td (or) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 128.29 309.29 Td (reached) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 166.70 309.29 Td (from) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 192.77 309.29 Td (outside,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 231.58 309.29 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 249.61 309.29 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 267.64 309.29 Td (number) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 303.90 309.29 Td (itself) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 332.52 309.29 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 343.10 309.29 Td (hidden) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 374.07 309.29 Td (inside) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 402.69 309.29 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 420.72 309.29 Td (object.) Tj ET
-BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 292.09 Td (-) Tj ET
-BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 292.09 Td (Step) Tj ET
-BT /F2 9.80 Tf 0.150 0.180 0.240 rg 89.81 292.09 Td (3:) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.86 292.09 Td (Make) Tj ET
-0.925 0.940 0.965 rg 126.43 289.89 35.40 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 127.93 292.09 Td (tick\(\)) Tj ET
-0.925 0.940 0.965 rg 164.57 289.89 67.80 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 166.07 292.09 Td (synchronized) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 232.87 292.09 Td (,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 238.36 292.09 Td (so) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 251.30 292.09 Td (incrementing,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 316.17 292.09 Td (comparing) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 365.37 292.09 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 383.40 292.09 Td (resetting) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 429.66 292.09 Td (happen) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 462.98 292.09 Td (as) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 475.91 292.09 Td (one) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 493.94 292.09 Td (step.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 519.82 292.09 Td (The) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 277.89 Td (constructor) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 122.80 277.89 Td (now) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 143.77 277.89 Td (only) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 164.55 277.89 Td (asks) Tj ET
-0.925 0.940 0.965 rg 187.18 275.69 229.80 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 188.68 277.89 Td (if \(DFA_CLEAR_COUNTER.tick\(clearDfaLimit\)\)) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 420.22 277.89 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 438.25 277.89 Td (clears) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 469.22 277.89 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 487.25 277.89 Td (DFA) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 509.40 277.89 Td (when) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 535.47 277.89 Td (it) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 263.69 Td (answers) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 105.36 263.69 Td (true.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 246.49 Td (d.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 246.49 Td (Our) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 77.99 246.49 Td (implementation:) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 152.47 741.09 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 170.50 741.09 Td (Anti-Pattern) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 234.79 741.09 Td (instance:) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 723.09 Td (-) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 723.09 Td (Severity) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 108.92 723.09 Td (and) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 127.87 723.09 Td (Risk:) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 154.09 723.09 Td (A) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 163.30 723.09 Td (mutable) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 202.31 723.09 Td (static) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 233.27 723.09 Td (field) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 256.79 723.09 Td (acts) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 279.92 723.09 Td (as) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 292.86 723.09 Td (uncontrolled) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 352.05 723.09 Td (global) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 380.67 723.09 Td (state.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 411.63 723.09 Td (In) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 422.22 723.09 Td (multi-threaded) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 494.54 723.09 Td (execution,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 708.89 Td (concurrent) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 117.70 708.89 Td (reads) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 145.93 708.89 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 163.96 708.89 Td (writes) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 197.87 708.89 Td (can) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 215.90 708.89 Td (trigger) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 251.96 708.89 Td (data) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 275.09 708.89 Td (races,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 306.06 708.89 Td (lost) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 326.84 708.89 Td (increments,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 383.87 708.89 Td (or) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 396.81 708.89 Td (premature) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 448.36 708.89 Td (resets,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 484.42 708.89 Td (corrupting) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 694.69 Td (runtime) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 103.00 694.69 Td (decisions.) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 677.49 Td (-) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 677.49 Td (High) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 87.31 677.49 Td (Impact) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 123.09 677.49 Td (Location:) Tj ET
+0.925 0.940 0.965 rg 170.42 675.29 100.20 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 171.92 677.49 Td (JavaLanguageParser) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 273.86 677.49 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 284.45 677.49 Td (instantiated) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 343.64 677.49 Td (on) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 356.57 677.49 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 374.61 677.49 Td (hot) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 392.64 677.49 Td (path) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 415.77 677.49 Td (for) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 433.80 677.49 Td (every) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 462.02 677.49 Td (single) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 490.64 677.49 Td (source) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 523.96 677.49 Td (file) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 663.29 Td (parsed) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 97.32 663.29 Td (by) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 110.26 663.29 Td (CheckStyle,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 167.10 663.29 Td (so) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 180.03 663.29 Td (resolving) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 223.94 663.29 Td (concurrency) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 282.74 663.29 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 300.77 663.29 Td (memory) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 339.97 663.29 Td (leaks) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 365.84 663.29 Td (here) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 388.97 663.29 Td (protects) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 432.48 663.29 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 450.51 663.29 Td (entire) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 481.48 663.29 Td (analysis) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 649.09 Td (pipeline.) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 631.89 Td (-) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 631.89 Td (Effort) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 100.61 631.89 Td (vs.) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 117.07 631.89 Td (Gain:) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 143.29 631.89 Td (It) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 153.87 631.89 Td (can) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 171.90 631.89 Td (be) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 184.84 631.89 Td (refactored) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 238.54 631.89 Td (cleanly) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 272.25 631.89 Td (in-place) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 311.06 631.89 Td (with) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 334.78 631.89 Td (a) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 342.62 631.89 Td (high) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 363.39 631.89 Td (return) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 396.71 631.89 Td (on) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 409.65 631.89 Td (investment,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 466.69 631.89 Td (eliminating) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 519.02 631.89 Td (global) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 617.69 Td (state) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 92.22 617.69 Td (while) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 118.68 617.69 Td (keeping) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 154.75 617.69 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 172.78 617.69 Td (DFA) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 194.93 617.69 Td (clearing) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 233.74 617.69 Td (behavior) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 274.90 617.69 Td (fully) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 298.42 617.69 Td (intact.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 600.49 Td (b.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 600.49 Td (Location) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 101.12 600.49 Td (within) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 132.67 600.49 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 150.70 600.49 Td (CheckStyle) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 204.80 600.49 Td (code) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 227.93 600.49 Td (base) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 251.06 600.49 Td ([original) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 292.61 600.49 Td (code]:) Tj ET
+0.925 0.940 0.965 rg 47.50 580.29 343.20 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 49.00 582.49 Td (com.puppycrawl.tools.checkstyle.grammar.java.JavaLanguageParser) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 393.94 582.49 Td (\(defined) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 435.10 582.49 Td (in) Tj ET
+0.925 0.940 0.965 rg 47.50 566.29 116.40 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 49.00 568.49 Td (JavaLanguageParser.g4) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 164.40 568.49 Td (\):) Tj ET
+0.965 0.975 0.990 rg 48.00 412.29 499.28 148.00 re f
+0.6 w 0.820 0.860 0.920 RG 48.00 412.29 499.28 148.00 re S
+0.150 0.390 0.920 rg 48.00 412.29 3.00 148.00 re f
+1.000 0.900 0.900 rg 54.00 543.29 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 543.29 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 545.29 Td (    static int fileCounter = 0; // PROBLEM: package-private mutable static field \(unprotected gl) Tj ET
+1.000 0.900 0.900 rg 54.00 532.29 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 532.29 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 534.29 Td (  obal state\)) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 523.29 Td () Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 512.29 Td (    public JavaLanguageParser\(TokenStream input, int clearDfaLimit\) {) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 501.29 Td (        super\(input\);) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 490.29 Td (        _interp = new ParserATNSimulator\(this, _ATN , _decisionToDFA, _sharedContextCache\);) Tj ET
+1.000 0.900 0.900 rg 54.00 477.29 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 477.29 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 479.29 Td (        fileCounter++; // PROBLEM: non-atomic increment susceptible to data races across threads) Tj ET
+1.000 0.900 0.900 rg 54.00 466.29 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 466.29 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 468.29 Td (        if \(fileCounter > clearDfaLimit\) { // PROBLEM: unsynchronized check and reset) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 457.29 Td (            _interp.clearDFA\(\);) Tj ET
+1.000 0.900 0.900 rg 54.00 444.29 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 444.29 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 446.29 Td (            fileCounter = 0; // PROBLEM: concurrent threads can overwrite or double-reset) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 435.29 Td (        }) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 424.29 Td (    }) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 394.49 Td (Why) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 68.97 394.49 Td (this) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 89.75 394.49 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.33 394.49 Td (a) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 108.17 394.49 Td (problem:) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 376.49 Td (-) Tj ET
+0.925 0.940 0.965 rg 63.50 374.29 62.40 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 376.49 Td (fileCounter) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 129.14 376.49 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 139.73 376.49 Td (a) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 147.57 376.49 Td (mutable) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 186.57 376.49 Td (static) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 217.54 376.49 Td (field,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 243.80 376.49 Td (so) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 256.74 376.49 Td (it) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 267.32 376.49 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 277.91 376.49 Td (global) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 306.52 376.49 Td (state) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 334.75 376.49 Td (shared) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 368.07 376.49 Td (by) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 381.00 376.49 Td (every) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 409.23 376.49 Td (parser) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 442.55 376.49 Td (in) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 453.13 376.49 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 471.16 376.49 Td (program,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 515.26 376.49 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 362.29 Td (any) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 82.03 362.29 Td (class) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 107.90 362.29 Td (in) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 118.49 362.29 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 136.52 362.29 Td (package) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 174.94 362.29 Td (can) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 192.97 362.29 Td (change) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 226.29 362.29 Td (it.) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 345.09 Td (-) Tj ET
+0.925 0.940 0.965 rg 63.50 342.89 73.20 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 345.09 Td (fileCounter++) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 137.20 345.09 Td (,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 142.69 345.09 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 160.72 345.09 Td (comparison) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 215.01 345.09 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 233.04 345.09 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 251.08 345.09 Td (reset) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 279.30 345.09 Td (to) Tj ET
+0.925 0.940 0.965 rg 291.74 342.89 8.40 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 293.24 345.09 Td (0) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 303.38 345.09 Td (are) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 321.41 345.09 Td (separate) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 364.92 345.09 Td (steps.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 395.89 345.09 Td (When) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 421.96 345.09 Td (files) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 445.48 345.09 Td (are) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 463.51 345.09 Td (checked) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 501.93 345.09 Td (on) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 330.89 Td (several) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.06 330.89 Td (threads,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 141.22 330.89 Td (increments) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 195.52 330.89 Td (can) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 213.55 330.89 Td (be) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 226.48 330.89 Td (lost) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 247.26 330.89 Td (or) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 260.20 330.89 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 278.23 330.89 Td (reset) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 306.45 330.89 Td (can) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 324.48 330.89 Td (happen) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 357.80 330.89 Td (twice,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 389.36 330.89 Td (so) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 402.30 330.89 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 420.33 330.89 Td (DFA) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 442.48 330.89 Td (cache) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 470.70 330.89 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 481.28 330.89 Td (cleared) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 517.35 330.89 Td (at) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 530.28 330.89 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 316.69 Td (wrong) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 95.16 316.69 Td (time) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 118.88 316.69 Td (\(memory) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 163.18 316.69 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 181.21 316.69 Td (speed) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 209.43 316.69 Td (problems\).) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 299.49 Td (c.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 299.49 Td (Steps) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 88.18 299.49 Td (to) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 101.12 299.49 Td (refactor) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 144.63 299.49 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 162.66 299.49 Td (justification:) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 281.49 Td (-) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 281.49 Td (Step) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 89.81 281.49 Td (1:) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.86 281.49 Td (Create) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 135.55 281.49 Td (a) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 143.39 281.49 Td (small) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 169.85 281.49 Td (class) Tj ET
+0.925 0.940 0.965 rg 195.22 279.29 84.00 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 196.72 281.49 Td (DfaClearCounter) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 282.47 281.49 Td (inside) Tj ET
+0.925 0.940 0.965 rg 310.58 279.29 116.40 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 312.08 281.49 Td (JavaLanguageParser.g4) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 430.23 281.49 Td (\(in) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 445.91 281.49 Td (the) Tj ET
+0.925 0.940 0.965 rg 63.50 265.09 89.40 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 267.29 Td (@parser::members) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 156.14 267.29 Td (block\)) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 187.11 267.29 Td (that) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 210.24 267.29 Td (owns) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 236.31 267.29 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 254.34 267.29 Td (counter) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 292.76 267.29 Td (as) Tj ET
+0.925 0.940 0.965 rg 305.19 265.09 40.80 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 306.69 267.29 Td (private) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 349.24 267.29 Td (fields) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 377.85 267.29 Td (\() Tj ET
+0.925 0.940 0.965 rg 382.45 265.09 30.00 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 383.95 267.29 Td (limit) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 412.95 267.29 Td (,) Tj ET
+0.925 0.940 0.965 rg 417.94 265.09 30.00 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 419.44 267.29 Td (count) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 448.44 267.29 Td (\).) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 250.09 Td (-) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 250.09 Td (Step) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 89.81 250.09 Td (2:) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.86 250.09 Td (Replace) Tj ET
+0.925 0.940 0.965 rg 137.80 247.89 121.80 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 139.30 250.09 Td (static int fileCounter) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 262.84 250.09 Td (with) Tj ET
+0.925 0.940 0.965 rg 63.50 233.69 294.60 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 235.89 Td (private static final DfaClearCounter DFA_CLEAR_COUNTER) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 358.60 235.89 Td (.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 364.09 235.89 Td (The) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 383.49 235.89 Td (reference) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 432.10 235.89 Td (can) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 450.13 235.89 Td (no) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 463.07 235.89 Td (longer) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 494.04 235.89 Td (be) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 221.69 Td (reassigned) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 115.35 221.69 Td (or) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 128.29 221.69 Td (reached) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 166.70 221.69 Td (from) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 192.77 221.69 Td (outside,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 231.58 221.69 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 249.61 221.69 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 267.64 221.69 Td (number) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 303.90 221.69 Td (itself) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 332.52 221.69 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 343.10 221.69 Td (hidden) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 374.07 221.69 Td (inside) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 402.69 221.69 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 420.72 221.69 Td (object.) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 204.49 Td (-) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 204.49 Td (Step) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 89.81 204.49 Td (3:) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.86 204.49 Td (Make) Tj ET
+0.925 0.940 0.965 rg 126.43 202.29 35.40 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 127.93 204.49 Td (tick\(\)) Tj ET
+0.925 0.940 0.965 rg 164.57 202.29 67.80 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 166.07 204.49 Td (synchronized) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 232.87 204.49 Td (,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 238.36 204.49 Td (so) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 251.30 204.49 Td (incrementing,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 316.17 204.49 Td (comparing) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 365.37 204.49 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 383.40 204.49 Td (resetting) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 429.66 204.49 Td (happen) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 462.98 204.49 Td (as) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 475.91 204.49 Td (one) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 493.94 204.49 Td (step.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 519.82 204.49 Td (The) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 190.29 Td (constructor) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 122.80 190.29 Td (now) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 143.77 190.29 Td (only) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 164.55 190.29 Td (asks) Tj ET
+0.925 0.940 0.965 rg 187.18 188.09 229.80 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 188.68 190.29 Td (if \(DFA_CLEAR_COUNTER.tick\(clearDfaLimit\)\)) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 420.22 190.29 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 438.25 190.29 Td (clears) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 469.22 190.29 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 487.25 190.29 Td (DFA) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 509.40 190.29 Td (when) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 535.47 190.29 Td (it) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 176.09 Td (answers) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 105.36 176.09 Td (true.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 158.89 Td (d.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 158.89 Td (Our) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 77.99 158.89 Td (implementation:) Tj ET
 BT /F1 8.50 Tf 0.450 0.500 0.560 rg 177.19 28.00 Td (SENG 319 - Group Tozaring - Project 1 Report | Page 2 of 10) Tj ET
 endstream
 endobj
@@ -683,7 +732,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 9 0 R >>
 endobj
 11 0 obj
-<< /Length 13982 >>
+<< /Length 18578 >>
 stream
 0.965 0.975 0.990 rg 48.00 388.89 499.28 401.00 re f
 0.6 w 0.820 0.860 0.920 RG 48.00 388.89 499.28 401.00 re S
@@ -824,63 +873,131 @@ BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 227.09 Td (a.) Tj ET
 BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 227.09 Td (Reason) Tj ET
 BT /F1 9.80 Tf 0.150 0.180 0.240 rg 93.28 227.09 Td (for) Tj ET
 BT /F1 9.80 Tf 0.150 0.180 0.240 rg 111.31 227.09 Td (choosing) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 152.47 227.09 Td (this) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 173.24 227.09 Td (instance:) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 209.09 Td (A) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 57.21 209.09 Td (Blob) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 79.36 209.09 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 89.94 209.09 Td (easy) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 113.07 209.09 Td (to) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 126.01 209.09 Td (fix) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 141.69 209.09 Td (with) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 165.40 209.09 Td (a) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 173.24 209.09 Td (small) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 199.70 209.09 Td (change) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 233.02 209.09 Td (that) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 256.15 209.09 Td (gives) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 282.02 209.09 Td (a) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 289.86 209.09 Td (good) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 312.99 209.09 Td (result.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 346.70 209.09 Td (In) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 357.29 209.09 Td (this) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 378.06 209.09 Td (Blob,) Tj ET
-0.925 0.940 0.965 rg 402.46 206.89 143.40 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 403.96 209.09 Td (AuditEventDefaultFormatter) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 195.09 Td (holds) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 73.87 195.09 Td (all) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 87.20 195.09 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 105.23 195.09 Td (logic) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 128.75 195.09 Td (and) Tj ET
-0.925 0.940 0.965 rg 146.28 192.89 57.00 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 147.78 195.09 Td (AuditEvent) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 206.53 195.09 Td (only) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 227.30 195.09 Td (holds) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 253.18 195.09 Td (data.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 279.05 195.09 Td (The) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 298.45 195.09 Td (formatter) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 350.00 195.09 Td (also) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 370.78 195.09 Td (repeated) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 414.29 195.09 Td (work:) Tj ET
-0.925 0.940 0.965 rg 47.50 178.89 132.60 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 49.00 181.09 Td (getCheckShortName\(event\)) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 183.34 181.09 Td (was) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 204.32 181.09 Td (called) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 232.93 181.09 Td (twice) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 261.74 181.09 Td (for) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 279.78 181.09 Td (every) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 308.00 181.09 Td (violation.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 163.09 Td (b.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 163.09 Td (Location) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 101.12 163.09 Td (in) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 111.70 163.09 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 129.73 163.09 Td (CheckStyle) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 183.83 163.09 Td (code) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 206.96 163.09 Td (base) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 230.08 163.09 Td ([original) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 271.64 163.09 Td (code]:) Tj ET
-0.925 0.940 0.965 rg 47.50 142.89 316.20 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 49.00 145.09 Td (com.puppycrawl.tools.checkstyle.AuditEventDefaultFormatter) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 364.20 145.09 Td (:) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 152.47 227.09 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 170.50 227.09 Td (Anti-Pattern) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 234.79 227.09 Td (instance:) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 209.09 Td (-) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 209.09 Td (Classic) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 101.02 209.09 Td (Controller-DataClass) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 208.69 209.09 Td (Imbalance:) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 261.09 209.09 Td (In) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 271.67 209.09 Td (this) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 292.45 209.09 Td (Blob) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 314.59 209.09 Td (instance,) Tj ET
+0.925 0.940 0.965 rg 358.00 206.89 57.00 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 359.50 209.09 Td (AuditEvent) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 418.24 209.09 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 428.83 209.09 Td (reduced) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 467.24 209.09 Td (to) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 480.18 209.09 Td (an) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 493.11 209.09 Td (anemic) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 194.89 Td (data) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 87.13 194.89 Td (holder) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 118.10 194.89 Td (exposing) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 159.26 194.89 Td (raw) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 180.23 194.89 Td (attributes,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 234.32 194.89 Td (while) Tj ET
+0.925 0.940 0.965 rg 260.28 192.69 143.40 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 261.78 194.89 Td (AuditEventDefaultFormatter) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 406.93 194.89 Td (assumes) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 448.28 194.89 Td (full) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 466.71 194.89 Td (responsibility) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 531.39 194.89 Td (for) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 180.69 Td (string) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 94.97 180.69 Td (manipulations,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 162.59 180.69 Td (suffix) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 193.56 180.69 Td (stripping,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 240.20 180.69 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 258.24 180.69 Td (identifier) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 304.88 180.69 Td (resolution) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 353.88 180.69 Td (that) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 377.01 180.69 Td (inherently) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 426.01 180.69 Td (belong) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 456.98 180.69 Td (to) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 469.92 180.69 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 487.95 180.69 Td (event) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 516.17 180.69 Td (itself.) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 163.49 Td (-) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 163.49 Td (Eliminating) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 120.76 163.49 Td (Work) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 148.23 163.49 Td (and) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 167.18 163.49 Td (Memory) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 208.57 163.49 Td (Waste:) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 244.34 163.49 Td (Examining) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 292.56 163.49 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 310.59 163.49 Td (original) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 347.05 163.49 Td (formatter) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 398.60 163.49 Td (reveals) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 434.66 163.49 Td (that) Tj ET
+0.925 0.940 0.965 rg 63.50 147.09 132.60 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 149.29 Td (getCheckShortName\(event\)) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 199.34 149.29 Td (was) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 220.32 149.29 Td (called) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 248.93 149.29 Td (twice) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 277.74 149.29 Td (for) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 295.78 149.29 Td (every) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 324.00 149.29 Td (single) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 352.62 149.29 Td (logged) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 383.58 149.29 Td (violation) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 425.14 149.29 Td (\(once) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 453.36 149.29 Td (when) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 479.43 149.29 Td (sizing) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 508.04 149.29 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 135.09 Td (buffer) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 97.32 135.09 Td (in) Tj ET
+0.925 0.940 0.965 rg 107.40 132.89 186.60 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 108.90 135.09 Td (initStringBuilderWithOptimalBuffer) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 297.25 135.09 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 315.28 135.09 Td (once) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 338.41 135.09 Td (during) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 369.38 135.09 Td (message) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 410.73 135.09 Td (construction) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 472.28 135.09 Td (in) Tj ET
+0.925 0.940 0.965 rg 482.36 132.89 35.40 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 483.86 135.09 Td (format) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 518.26 135.09 Td (\).) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 120.89 Td (This) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 86.15 120.89 Td (resulted) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 127.31 120.89 Td (in) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 137.89 120.89 Td (redundant) Tj ET
+0.925 0.940 0.965 rg 186.00 118.69 51.60 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 187.50 120.89 Td (substring) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 240.84 120.89 Td (heap) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 263.97 120.89 Td (allocations) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 315.72 120.89 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 333.75 120.89 Td (incorrect) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 380.00 120.89 Td (buffer) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 413.32 120.89 Td (sizing) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 441.94 120.89 Td (whenever) Tj ET
+0.925 0.940 0.965 rg 487.89 118.69 46.20 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 489.39 120.89 Td (moduleId) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 106.69 Td (was) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 84.97 106.69 Td (configured.) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 89.49 Td (-) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 89.49 Td (High) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 87.31 89.49 Td (Architectural) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 156.75 89.49 Td (Payoff:) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 196.26 89.49 Td (Moving) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 230.17 89.49 Td (domain) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 264.08 89.49 Td (logic) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 287.60 89.49 Td (to) Tj ET
+0.925 0.940 0.965 rg 300.04 87.29 57.00 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 301.54 89.49 Td (AuditEvent) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 360.28 89.49 Td (cures) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 388.50 89.49 Td (Feature) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 428.29 89.49 Td (Envy) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 452.79 89.49 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 470.82 89.49 Td (restores) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 75.29 Td (cohesion) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 105.16 75.29 Td (to) Tj ET
+0.925 0.940 0.965 rg 117.60 73.09 143.40 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 119.10 75.29 Td (AuditEventDefaultFormatter) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 264.24 75.29 Td (with) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 287.96 75.29 Td (a) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 295.80 75.29 Td (compact,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 339.90 75.29 Td (highly) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 368.51 75.29 Td (reliable) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 404.97 75.29 Td (refactoring.) Tj ET
 BT /F1 8.50 Tf 0.450 0.500 0.560 rg 177.19 28.00 Td (SENG 319 - Group Tozaring - Project 1 Report | Page 3 of 10) Tj ET
 endstream
 endobj
@@ -888,230 +1005,262 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 11 0 R >>
 endobj
 13 0 obj
-<< /Length 15776 >>
+<< /Length 17968 >>
 stream
-0.965 0.975 0.990 rg 48.00 476.89 499.28 313.00 re f
-0.6 w 0.820 0.860 0.920 RG 48.00 476.89 499.28 313.00 re S
-0.150 0.390 0.920 rg 48.00 476.89 3.00 313.00 re f
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 774.89 Td (        final StringBuilder sb = initStringBuilderWithOptimalBuffer\(event, severityLevelName\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 763.89 Td (        ...) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 752.89 Td (        if \(event.getModuleId\(\) == null\) {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 741.89 Td (            final String checkShortName = getCheckShortName\(event\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 730.89 Td (            sb.append\(checkShortName\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 719.89 Td (        }) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 708.89 Td (        else {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 697.89 Td (            sb.append\(event.getModuleId\(\)\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 686.89 Td (        }) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 675.89 Td (        ...) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 664.89 Td (    private static StringBuilder initStringBuilderWithOptimalBuffer\(AuditEvent event,) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 653.89 Td (            String severityLevelName\) {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 642.89 Td (        final int bufLen = LENGTH_OF_ALL_SEPARATORS + event.getFileName\(\).length\(\)) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 631.89 Td (            + event.getMessage\(\).length\(\) + severityLevelName.length\(\)) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 620.89 Td (            + getCheckShortName\(event\).length\(\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 609.89 Td (        return new StringBuilder\(bufLen\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 598.89 Td (    }) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 587.89 Td () Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 576.89 Td (    private static String getCheckShortName\(AuditEvent event\) {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 565.89 Td (        final String checkFullName = event.getSourceName\(\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 554.89 Td (        String checkShortName = checkFullName.substring\(checkFullName.lastIndexOf\('.'\) + 1\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 543.89 Td (        if \(checkShortName.endsWith\(SUFFIX\)\) {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 532.89 Td (            final int endIndex = checkShortName.length\(\) - SUFFIX.length\(\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 521.89 Td (            checkShortName = checkShortName.substring\(0, endIndex\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 510.89 Td (        }) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 499.89 Td (        return checkShortName;) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 488.89 Td (    }) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 459.09 Td (Why) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 68.97 459.09 Td (this) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 89.75 459.09 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.33 459.09 Td (a) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 108.17 459.09 Td (problem:) Tj ET
-BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 441.09 Td (-) Tj ET
-0.925 0.940 0.965 rg 63.50 438.89 57.00 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 441.09 Td (AuditEvent) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 123.74 441.09 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 134.33 441.09 Td (a) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 142.17 441.09 Td (passive) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 178.23 441.09 Td (data) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 201.36 441.09 Td (class.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 229.98 441.09 Td (All) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 244.68 441.09 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 262.71 441.09 Td (logic) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 286.23 441.09 Td (that) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 309.36 441.09 Td (works) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 340.52 441.09 Td (on) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 353.46 441.09 Td (its) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 369.14 441.09 Td (data) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 392.26 441.09 Td (\() Tj ET
-0.925 0.940 0.965 rg 396.86 438.89 84.00 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 398.36 441.09 Td (getSourceName\(\)) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 481.36 441.09 Td (,) Tj ET
-0.925 0.940 0.965 rg 63.50 424.69 73.20 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 426.89 Td (getModuleId\(\)) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 137.20 426.89 Td (\)) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 145.04 426.89 Td (sits) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 165.82 426.89 Td (in) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 176.40 426.89 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 194.43 426.89 Td (formatter,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 248.72 426.89 Td (which) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 277.54 426.89 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 288.12 426.89 Td (a) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 295.96 426.89 Td (Blob.) Tj ET
-BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 409.69 Td (-) Tj ET
-0.925 0.940 0.965 rg 63.50 407.49 94.80 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 409.69 Td (getCheckShortName) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 161.54 409.69 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 172.13 409.69 Td (a) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 179.97 409.69 Td (static) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 210.94 409.69 Td (helper) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 241.90 409.69 Td (that) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 265.03 409.69 Td (uses) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 288.16 409.69 Td (nothing) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 324.22 409.69 Td (from) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 350.29 409.69 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 368.32 409.69 Td (formatter,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 422.62 409.69 Td (so) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 435.55 409.69 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 453.58 409.69 Td (formatter) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 505.13 409.69 Td (class) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 531.00 409.69 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 395.49 Td (not) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 82.03 395.49 Td (cohesive.) Tj ET
-BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 378.29 Td (-) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 378.29 Td (The) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 83.40 378.29 Td (short) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 111.63 378.29 Td (name) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 137.70 378.29 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 148.28 378.29 Td (computed) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 194.73 378.29 Td (twice) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 223.54 378.29 Td (per) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 241.58 378.29 Td (event,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 272.54 378.29 Td (which) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 301.36 378.29 Td (creates) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 339.77 378.29 Td (extra) Tj ET
-0.925 0.940 0.965 rg 367.50 376.09 35.40 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 369.00 378.29 Td (String) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 406.14 378.29 Td (objects) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 444.56 378.29 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 462.59 378.29 Td (wastes) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 498.85 378.29 Td (memory) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 364.09 Td (on) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 76.94 364.09 Td (every) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 105.16 364.09 Td (logged) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 136.13 364.09 Td (violation.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 346.89 Td (c.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 346.89 Td (Steps) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 88.18 346.89 Td (to) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 101.12 346.89 Td (refactor) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 144.63 346.89 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 162.66 346.89 Td (justification:) Tj ET
-BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 328.89 Td (-) Tj ET
-BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 328.89 Td (Step) Tj ET
-BT /F2 9.80 Tf 0.150 0.180 0.240 rg 89.81 328.89 Td (1:) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.86 328.89 Td (Move) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 126.93 328.89 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 144.96 328.89 Td (logic) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 168.48 328.89 Td (to) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 181.42 328.89 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 199.45 328.89 Td (class) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 225.32 328.89 Td (that) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 248.45 328.89 Td (owns) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 274.52 328.89 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 292.55 328.89 Td (data.) Tj ET
-0.925 0.940 0.965 rg 317.92 326.69 57.00 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 319.42 328.89 Td (AuditEvent) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 378.16 328.89 Td (gets) Tj ET
-0.925 0.940 0.965 rg 63.50 312.49 175.80 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 314.69 Td (getCheckShortName\(String suffix\)) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 242.54 314.69 Td (and) Tj ET
-0.925 0.940 0.965 rg 260.08 312.49 186.60 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 261.58 314.69 Td (getSourceIdentifier\(String suffix\)) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 447.18 314.69 Td (,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 452.66 314.69 Td (which) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 481.48 314.69 Td (use) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 499.51 314.69 Td (only) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 520.28 314.69 Td (its) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 300.49 Td (own) Tj ET
-0.925 0.940 0.965 rg 84.47 298.29 57.00 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 85.97 300.49 Td (sourceName) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 144.72 300.49 Td (and) Tj ET
-0.925 0.940 0.965 rg 162.25 298.29 46.20 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 163.75 300.49 Td (moduleId) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 208.95 300.49 Td (.) Tj ET
-BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 283.29 Td (-) Tj ET
-BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 283.29 Td (Step) Tj ET
-BT /F2 9.80 Tf 0.150 0.180 0.240 rg 89.81 283.29 Td (2:) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.86 283.29 Td (Delete) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 133.20 283.29 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 151.23 283.29 Td (static) Tj ET
-0.925 0.940 0.965 rg 181.70 281.09 159.60 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 183.20 283.29 Td (getCheckShortName\(AuditEvent\)) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 344.54 283.29 Td (from) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 370.61 283.29 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 388.64 283.29 Td (formatter) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 440.19 283.29 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 458.22 283.29 Td (call) Tj ET
-0.925 0.940 0.965 rg 63.50 266.89 208.20 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 269.09 Td (event.getSourceIdentifier\(checkSuffix\)) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 274.94 269.09 Td (once) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 298.07 269.09 Td (in) Tj ET
-0.925 0.940 0.965 rg 308.16 266.89 46.20 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 309.66 269.09 Td (format\(\)) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 354.86 269.09 Td (,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 360.34 269.09 Td (then) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 383.47 269.09 Td (reuse) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 411.70 269.09 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 429.73 269.09 Td (result) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 460.70 269.09 Td (for) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 478.73 269.09 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 496.76 269.09 Td (buffer) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 254.89 Td (size) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 84.78 254.89 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 102.81 254.89 Td (for) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 120.84 254.89 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 138.87 254.89 Td (output.) Tj ET
-BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 237.69 Td (-) Tj ET
-BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 237.69 Td (Step) Tj ET
-BT /F2 9.80 Tf 0.150 0.180 0.240 rg 89.81 237.69 Td (3:) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.86 237.69 Td (Give) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 123.01 237.69 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 141.04 237.69 Td (formatter) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 192.59 237.69 Td (real) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 213.36 237.69 Td (instance) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 254.52 237.69 Td (fields) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 283.14 237.69 Td (\() Tj ET
-0.925 0.940 0.965 rg 287.74 235.49 84.00 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 289.24 237.69 Td (separatorLength) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 372.24 237.69 Td (,) Tj ET
-0.925 0.940 0.965 rg 377.22 235.49 62.40 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 378.72 237.69 Td (checkSuffix) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 440.12 237.69 Td (\)) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 447.96 237.69 Td (that) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 471.09 237.69 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 489.12 237.69 Td (constructor) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 223.49 Td (sets) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 87.13 223.49 Td (and) Tj ET
-0.925 0.940 0.965 rg 104.66 221.29 46.20 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 106.16 223.49 Td (format\(\)) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 154.10 223.49 Td (uses,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 179.98 223.49 Td (so) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 192.91 223.49 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 210.94 223.49 Td (class) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 236.82 223.49 Td (works) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 267.98 223.49 Td (on) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 280.92 223.49 Td (its) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 296.60 223.49 Td (own) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 317.57 223.49 Td (state.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 206.29 Td (d.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 206.29 Td (Our) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 77.99 206.29 Td (implementation:) Tj ET
-0.925 0.940 0.965 rg 47.50 186.09 84.00 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 49.00 188.29 Td (AuditEvent.java) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 134.74 188.29 Td (\(logic) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 163.36 188.29 Td (moved) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 194.52 188.29 Td (to) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 207.46 188.29 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 225.49 188.29 Td (data) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 248.62 188.29 Td (owner\):) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 780.09 Td (b.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 780.09 Td (Location) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 101.12 780.09 Td (within) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 132.67 780.09 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 150.70 780.09 Td (CheckStyle) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 204.80 780.09 Td (code) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 227.93 780.09 Td (base) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 251.06 780.09 Td ([original) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 292.61 780.09 Td (code]:) Tj ET
+0.925 0.940 0.965 rg 47.50 759.89 316.20 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 49.00 762.09 Td (com.puppycrawl.tools.checkstyle.AuditEventDefaultFormatter) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 364.20 762.09 Td (:) Tj ET
+0.965 0.975 0.990 rg 48.00 396.89 499.28 357.00 re f
+0.6 w 0.820 0.860 0.920 RG 48.00 396.89 499.28 357.00 re S
+0.150 0.390 0.920 rg 48.00 396.89 3.00 357.00 re f
+1.000 0.900 0.900 rg 54.00 736.89 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 736.89 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 738.89 Td (        final StringBuilder sb = initStringBuilderWithOptimalBuffer\(event, severityLevelName\); /) Tj ET
+1.000 0.900 0.900 rg 54.00 725.89 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 725.89 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 727.89 Td (  / PROBLEM: first redundant call) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 716.89 Td (        ...) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 705.89 Td (        if \(event.getModuleId\(\) == null\) {) Tj ET
+1.000 0.900 0.900 rg 54.00 692.89 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 692.89 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 694.89 Td (            final String checkShortName = getCheckShortName\(event\); // PROBLEM: second redundant) Tj ET
+1.000 0.900 0.900 rg 54.00 681.89 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 681.89 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 683.89 Td (   call to string manipulation) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 672.89 Td (            sb.append\(checkShortName\);) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 661.89 Td (        }) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 650.89 Td (        else {) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 639.89 Td (            sb.append\(event.getModuleId\(\)\);) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 628.89 Td (        }) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 617.89 Td (        ...) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 606.89 Td (    private static StringBuilder initStringBuilderWithOptimalBuffer\(AuditEvent event,) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 595.89 Td (            String severityLevelName\) {) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 584.89 Td (        final int bufLen = LENGTH_OF_ALL_SEPARATORS + event.getFileName\(\).length\(\)) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 573.89 Td (            + event.getMessage\(\).length\(\) + severityLevelName.length\(\)) Tj ET
+1.000 0.900 0.900 rg 54.00 560.89 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 560.89 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 562.89 Td (            + getCheckShortName\(event\).length\(\); // PROBLEM: Feature Envy; inspects AuditEvent i) Tj ET
+1.000 0.900 0.900 rg 54.00 549.89 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 549.89 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 551.89 Td (  nternals from static helper) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 540.89 Td (        return new StringBuilder\(bufLen\);) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 529.89 Td (    }) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 518.89 Td () Tj ET
+1.000 0.900 0.900 rg 54.00 505.89 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 505.89 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 507.89 Td (    private static String getCheckShortName\(AuditEvent event\) { // PROBLEM: Domain logic isolate) Tj ET
+1.000 0.900 0.900 rg 54.00 494.89 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 494.89 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 496.89 Td (  d outside AuditEvent) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 485.89 Td (        final String checkFullName = event.getSourceName\(\);) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 474.89 Td (        String checkShortName = checkFullName.substring\(checkFullName.lastIndexOf\('.'\) + 1\);) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 463.89 Td (        if \(checkShortName.endsWith\(SUFFIX\)\) {) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 452.89 Td (            final int endIndex = checkShortName.length\(\) - SUFFIX.length\(\);) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 441.89 Td (            checkShortName = checkShortName.substring\(0, endIndex\);) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 430.89 Td (        }) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 419.89 Td (        return checkShortName;) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 408.89 Td (    }) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 379.09 Td (Why) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 68.97 379.09 Td (this) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 89.75 379.09 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.33 379.09 Td (a) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 108.17 379.09 Td (problem:) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 361.09 Td (-) Tj ET
+0.925 0.940 0.965 rg 63.50 358.89 57.00 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 361.09 Td (AuditEvent) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 123.74 361.09 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 134.33 361.09 Td (a) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 142.17 361.09 Td (passive) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 178.23 361.09 Td (data) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 201.36 361.09 Td (class.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 229.98 361.09 Td (All) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 244.68 361.09 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 262.71 361.09 Td (logic) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 286.23 361.09 Td (that) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 309.36 361.09 Td (works) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 340.52 361.09 Td (on) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 353.46 361.09 Td (its) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 369.14 361.09 Td (data) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 392.26 361.09 Td (\() Tj ET
+0.925 0.940 0.965 rg 396.86 358.89 84.00 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 398.36 361.09 Td (getSourceName\(\)) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 481.36 361.09 Td (,) Tj ET
+0.925 0.940 0.965 rg 63.50 344.69 73.20 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 346.89 Td (getModuleId\(\)) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 137.20 346.89 Td (\)) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 145.04 346.89 Td (sits) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 165.82 346.89 Td (in) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 176.40 346.89 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 194.43 346.89 Td (formatter,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 248.72 346.89 Td (which) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 277.54 346.89 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 288.12 346.89 Td (a) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 295.96 346.89 Td (Blob.) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 329.69 Td (-) Tj ET
+0.925 0.940 0.965 rg 63.50 327.49 94.80 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 329.69 Td (getCheckShortName) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 161.54 329.69 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 172.13 329.69 Td (a) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 179.97 329.69 Td (static) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 210.94 329.69 Td (helper) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 241.90 329.69 Td (that) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 265.03 329.69 Td (uses) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 288.16 329.69 Td (nothing) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 324.22 329.69 Td (from) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 350.29 329.69 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 368.32 329.69 Td (formatter,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 422.62 329.69 Td (so) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 435.55 329.69 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 453.58 329.69 Td (formatter) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 505.13 329.69 Td (class) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 531.00 329.69 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 315.49 Td (not) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 82.03 315.49 Td (cohesive.) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 298.29 Td (-) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 298.29 Td (The) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 83.40 298.29 Td (short) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 111.63 298.29 Td (name) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 137.70 298.29 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 148.28 298.29 Td (computed) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 194.73 298.29 Td (twice) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 223.54 298.29 Td (per) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 241.58 298.29 Td (event,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 272.54 298.29 Td (which) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 301.36 298.29 Td (creates) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 339.77 298.29 Td (extra) Tj ET
+0.925 0.940 0.965 rg 367.50 296.09 35.40 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 369.00 298.29 Td (String) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 406.14 298.29 Td (objects) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 444.56 298.29 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 462.59 298.29 Td (wastes) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 498.85 298.29 Td (memory) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 284.09 Td (on) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 76.94 284.09 Td (every) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 105.16 284.09 Td (logged) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 136.13 284.09 Td (violation.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 266.89 Td (c.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 266.89 Td (Steps) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 88.18 266.89 Td (to) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 101.12 266.89 Td (refactor) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 144.63 266.89 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 162.66 266.89 Td (justification:) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 248.89 Td (-) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 248.89 Td (Step) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 89.81 248.89 Td (1:) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.86 248.89 Td (Move) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 126.93 248.89 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 144.96 248.89 Td (logic) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 168.48 248.89 Td (to) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 181.42 248.89 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 199.45 248.89 Td (class) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 225.32 248.89 Td (that) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 248.45 248.89 Td (owns) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 274.52 248.89 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 292.55 248.89 Td (data.) Tj ET
+0.925 0.940 0.965 rg 317.92 246.69 57.00 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 319.42 248.89 Td (AuditEvent) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 378.16 248.89 Td (gets) Tj ET
+0.925 0.940 0.965 rg 63.50 232.49 175.80 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 234.69 Td (getCheckShortName\(String suffix\)) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 242.54 234.69 Td (and) Tj ET
+0.925 0.940 0.965 rg 260.08 232.49 186.60 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 261.58 234.69 Td (getSourceIdentifier\(String suffix\)) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 447.18 234.69 Td (,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 452.66 234.69 Td (which) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 481.48 234.69 Td (use) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 499.51 234.69 Td (only) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 520.28 234.69 Td (its) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 220.49 Td (own) Tj ET
+0.925 0.940 0.965 rg 84.47 218.29 57.00 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 85.97 220.49 Td (sourceName) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 144.72 220.49 Td (and) Tj ET
+0.925 0.940 0.965 rg 162.25 218.29 46.20 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 163.75 220.49 Td (moduleId) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 208.95 220.49 Td (.) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 203.29 Td (-) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 203.29 Td (Step) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 89.81 203.29 Td (2:) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.86 203.29 Td (Delete) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 133.20 203.29 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 151.23 203.29 Td (static) Tj ET
+0.925 0.940 0.965 rg 181.70 201.09 159.60 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 183.20 203.29 Td (getCheckShortName\(AuditEvent\)) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 344.54 203.29 Td (from) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 370.61 203.29 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 388.64 203.29 Td (formatter) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 440.19 203.29 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 458.22 203.29 Td (call) Tj ET
+0.925 0.940 0.965 rg 63.50 186.89 208.20 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 189.09 Td (event.getSourceIdentifier\(checkSuffix\)) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 274.94 189.09 Td (once) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 298.07 189.09 Td (in) Tj ET
+0.925 0.940 0.965 rg 308.16 186.89 46.20 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 309.66 189.09 Td (format\(\)) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 354.86 189.09 Td (,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 360.34 189.09 Td (then) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 383.47 189.09 Td (reuse) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 411.70 189.09 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 429.73 189.09 Td (result) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 460.70 189.09 Td (for) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 478.73 189.09 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 496.76 189.09 Td (buffer) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 174.89 Td (size) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 84.78 174.89 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 102.81 174.89 Td (for) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 120.84 174.89 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 138.87 174.89 Td (output.) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 157.69 Td (-) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 157.69 Td (Step) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 89.81 157.69 Td (3:) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.86 157.69 Td (Give) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 123.01 157.69 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 141.04 157.69 Td (formatter) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 192.59 157.69 Td (real) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 213.36 157.69 Td (instance) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 254.52 157.69 Td (fields) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 283.14 157.69 Td (\() Tj ET
+0.925 0.940 0.965 rg 287.74 155.49 84.00 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 289.24 157.69 Td (separatorLength) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 372.24 157.69 Td (,) Tj ET
+0.925 0.940 0.965 rg 377.22 155.49 62.40 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 378.72 157.69 Td (checkSuffix) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 440.12 157.69 Td (\)) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 447.96 157.69 Td (that) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 471.09 157.69 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 489.12 157.69 Td (constructor) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 143.49 Td (sets) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 87.13 143.49 Td (and) Tj ET
+0.925 0.940 0.965 rg 104.66 141.29 46.20 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 106.16 143.49 Td (format\(\)) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 154.10 143.49 Td (uses,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 179.98 143.49 Td (so) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 192.91 143.49 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 210.94 143.49 Td (class) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 236.82 143.49 Td (works) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 267.98 143.49 Td (on) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 280.92 143.49 Td (its) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 296.60 143.49 Td (own) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 317.57 143.49 Td (state.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 126.29 Td (d.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 126.29 Td (Our) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 77.99 126.29 Td (implementation:) Tj ET
+0.925 0.940 0.965 rg 47.50 106.09 84.00 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 49.00 108.29 Td (AuditEvent.java) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 134.74 108.29 Td (\(logic) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 163.36 108.29 Td (moved) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 194.52 108.29 Td (to) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 207.46 108.29 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 225.49 108.29 Td (data) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 248.62 108.29 Td (owner\):) Tj ET
 BT /F1 8.50 Tf 0.450 0.500 0.560 rg 177.19 28.00 Td (SENG 319 - Group Tozaring - Project 1 Report | Page 4 of 10) Tj ET
 endstream
 endobj
@@ -1635,7 +1784,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 17 0 R >>
 endobj
 19 0 obj
-<< /Length 24411 >>
+<< /Length 23126 >>
 stream
 BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 780.09 Td (In) Tj ET
 BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 780.09 Td (our) Tj ET
@@ -1803,198 +1952,176 @@ BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 551.29 Td (a.) Tj ET
 BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 551.29 Td (Reason) Tj ET
 BT /F1 9.80 Tf 0.150 0.180 0.240 rg 93.28 551.29 Td (for) Tj ET
 BT /F1 9.80 Tf 0.150 0.180 0.240 rg 111.31 551.29 Td (choosing) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 152.47 551.29 Td (this) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 173.24 551.29 Td (instance:) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 533.29 Td (Two) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 70.34 533.29 Td (of) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 83.28 533.29 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 101.31 533.29 Td (five) Tj ET
-0.925 0.940 0.965 rg 121.59 531.09 73.20 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 123.09 533.29 Td (OneChildClass) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 198.03 533.29 Td (instances) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 244.29 533.29 Td (are) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 262.32 533.29 Td (in) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 272.90 533.29 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 290.94 533.29 Td (same) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 317.00 533.29 Td (package) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 355.42 533.29 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 373.45 533.29 Td (have) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 396.58 533.29 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 414.61 533.29 Td (same) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 440.68 533.29 Td (shape:) Tj ET
-0.925 0.940 0.965 rg 47.50 517.09 89.40 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 49.00 519.29 Td (AbstractRootNode) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 140.14 519.29 Td (has) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 158.18 519.29 Td (only) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 178.95 519.29 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 196.98 519.29 Td (child) Tj ET
-0.925 0.940 0.965 rg 220.00 517.09 46.20 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 221.50 519.29 Td (RootNode) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 266.70 519.29 Td (,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 272.19 519.29 Td (and) Tj ET
-0.925 0.940 0.965 rg 289.72 517.09 105.60 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 291.22 519.29 Td (AbstractElementNode) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 398.57 519.29 Td (has) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 416.60 519.29 Td (only) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 437.38 519.29 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 455.41 519.29 Td (child) Tj ET
-0.925 0.940 0.965 rg 478.43 517.09 62.40 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 479.93 519.29 Td (ElementNode) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 541.33 519.29 Td (.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 505.29 Td (They) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 72.50 505.29 Td (are) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 90.53 505.29 Td (easy) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 113.66 505.29 Td (to) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 126.60 505.29 Td (fix) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 142.28 505.29 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 160.31 505.29 Td (give) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 181.08 505.29 Td (a) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 188.92 505.29 Td (decent) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 222.24 505.29 Td (result) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 253.21 505.29 Td (in) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 263.80 505.29 Td (simplicity) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 311.03 505.29 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 329.06 505.29 Td (maintenance.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 487.29 Td (b.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 487.29 Td (Location) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 101.12 487.29 Td (in) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 111.70 487.29 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 129.73 487.29 Td (CheckStyle) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 183.83 487.29 Td (code) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 206.96 487.29 Td (base) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 230.08 487.29 Td ([original) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 271.64 487.29 Td (code]:) Tj ET
-0.925 0.940 0.965 rg 47.50 467.09 202.80 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 49.00 469.29 Td (com.puppycrawl.tools.checkstyle.xpath) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 253.54 469.29 Td (\() Tj ET
-0.925 0.940 0.965 rg 258.14 467.09 116.40 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 259.64 469.29 Td (AbstractRootNode.java) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 375.04 469.29 Td (,) Tj ET
-0.925 0.940 0.965 rg 380.03 467.09 73.20 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 381.53 469.29 Td (RootNode.java) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 453.73 469.29 Td (,) Tj ET
-0.925 0.940 0.965 rg 47.50 453.09 132.60 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 49.00 455.29 Td (AbstractElementNode.java) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 180.60 455.29 Td (,) Tj ET
-0.925 0.940 0.965 rg 185.59 453.09 89.40 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 187.09 455.29 Td (ElementNode.java) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 275.49 455.29 Td (\):) Tj ET
-0.965 0.975 0.990 rg 48.00 200.09 499.28 247.00 re f
-0.6 w 0.820 0.860 0.920 RG 48.00 200.09 499.28 247.00 re S
-0.150 0.390 0.920 rg 48.00 200.09 3.00 247.00 re f
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 432.09 Td (public abstract class AbstractRootNode extends AbstractNode {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 421.09 Td (    protected AbstractRootNode\(\) {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 410.09 Td (        super\(new GenericTreeInfo\(Configuration.newConfiguration\(\)\)\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 399.09 Td (    }) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 388.09 Td (    ... // compareOrder, getAttributeValue, getLocalPart, iterateAxis, ...) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 377.09 Td (}) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 366.09 Td () Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 355.09 Td (public class RootNode extends AbstractRootNode {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 344.09 Td (    public RootNode\(DetailAST detailAst\) { this.detailAst = detailAst; }) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 333.09 Td (    ... // createChildren, hasChildNodes, getLineNumber, ...) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 322.09 Td (}) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 311.09 Td () Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 300.09 Td (public abstract class AbstractElementNode extends AbstractNode {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 289.09 Td (    protected abstract AttributeNode createAttributeNode\(\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 278.09 Td (    ... // compareOrder, iterateAxis, getAttributeNode, ...) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 267.09 Td (}) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 256.09 Td () Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 245.09 Td (public class ElementNode extends AbstractElementNode {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 234.09 Td (    protected AttributeNode createAttributeNode\(\) { ... }) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 223.09 Td (    ... // createChildren, hasChildNodes, getLocalPart, ...) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 212.09 Td (}) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 182.29 Td (Why) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 68.97 182.29 Td (this) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 89.75 182.29 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.33 182.29 Td (a) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 108.17 182.29 Td (problem:) Tj ET
-BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 164.29 Td (-) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 164.29 Td (Each) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 88.50 164.29 Td (abstract) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 132.01 164.29 Td (class) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 157.88 164.29 Td (has) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 175.92 164.29 Td (exactly) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 211.98 164.29 Td (one) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 230.01 164.29 Td (subclass,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 273.92 164.29 Td (so) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 286.85 164.29 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 304.88 164.29 Td (abstraction) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 361.33 164.29 Td (never) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 389.56 164.29 Td (gives) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 415.43 164.29 Td (any) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 433.46 164.29 Td (benefit.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 472.27 164.29 Td (It) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 482.85 164.29 Td (only) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 503.63 164.29 Td (splits) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 150.09 Td (one) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 82.03 150.09 Td (idea) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 102.81 150.09 Td (over) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 125.94 150.09 Td (two) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 146.91 150.09 Td (files) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 170.43 150.09 Td (that) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 193.56 150.09 Td (have) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 216.68 150.09 Td (to) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 229.62 150.09 Td (be) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 242.56 150.09 Td (read) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 265.68 150.09 Td (together.) Tj ET
-BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 132.89 Td (-) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 132.89 Td (The) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 83.40 132.89 Td (only) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 104.18 132.89 Td (abstract) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 147.69 132.89 Td (method) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 183.95 132.89 Td (\() Tj ET
-0.925 0.940 0.965 rg 188.55 130.69 105.60 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 190.05 132.89 Td (createAttributeNode) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 294.65 132.89 Td (\)) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 302.49 132.89 Td (has) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 320.52 132.89 Td (just) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 343.65 132.89 Td (one) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 361.68 132.89 Td (implementation,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 437.34 132.89 Td (so) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 450.27 132.89 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 468.30 132.89 Td (abstract) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 511.82 132.89 Td (class) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 537.69 132.89 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 118.69 Td (unnecessary.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 101.49 Td (c.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 101.49 Td (Steps) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 88.18 101.49 Td (to) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 101.12 101.49 Td (refactor) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 144.63 101.49 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 162.66 101.49 Td (justification:) Tj ET
-BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 83.49 Td (-) Tj ET
-BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 83.49 Td (Step) Tj ET
-BT /F2 9.80 Tf 0.150 0.180 0.240 rg 89.81 83.49 Td (1:) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.86 83.49 Td (Move) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 126.93 83.49 Td (every) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 155.15 83.49 Td (field) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 178.67 83.49 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 196.70 83.49 Td (method) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 232.96 83.49 Td (of) Tj ET
-0.925 0.940 0.965 rg 245.40 81.29 89.40 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 246.90 83.49 Td (AbstractRootNode) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 338.04 83.49 Td (into) Tj ET
-0.925 0.940 0.965 rg 358.32 81.29 46.20 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 359.82 83.49 Td (RootNode) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 407.76 83.49 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 425.80 83.49 Td (move) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 451.86 83.49 Td (the) Tj ET
-0.925 0.940 0.965 rg 469.40 81.29 57.00 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 470.90 83.49 Td (super\(...\)) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 529.64 83.49 Td (call) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 69.29 Td (into) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 84.78 69.29 Td (the) Tj ET
-0.925 0.940 0.965 rg 102.31 67.09 46.20 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 103.81 69.29 Td (RootNode) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 151.75 69.29 Td (constructor.) Tj ET
-0.925 0.940 0.965 rg 212.80 67.09 46.20 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 214.30 69.29 Td (RootNode) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 262.24 69.29 Td (now) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 283.21 69.29 Td (extends) Tj ET
-0.925 0.940 0.965 rg 321.13 67.09 67.80 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 322.63 69.29 Td (AbstractNode) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 392.17 69.29 Td (directly,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 433.72 69.29 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 152.47 551.29 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 170.50 551.29 Td (Code) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 195.00 551.29 Td (Smell) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 222.83 551.29 Td (instance:) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 533.29 Td (-) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 533.29 Td (Unnecessary) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 127.62 533.29 Td (Hierarchy) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 177.94 533.29 Td (&) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 186.08 533.29 Td (File) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 206.90 533.29 Td (Bloat:) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 238.53 533.29 Td (Both) Tj ET
+0.925 0.940 0.965 rg 262.53 531.09 89.40 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 264.03 533.29 Td (AbstractRootNode) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 355.17 533.29 Td (and) Tj ET
+0.925 0.940 0.965 rg 372.70 531.09 105.60 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 374.20 533.29 Td (AbstractElementNode) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 481.55 533.29 Td (introduce) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 527.80 533.29 Td (an) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 519.09 Td (extra) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 92.22 519.09 Td (abstract) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 135.74 519.09 Td (layer) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 161.61 519.09 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 179.64 519.09 Td (physical) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 218.45 519.09 Td (files) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 241.97 519.09 Td (with) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 265.68 519.09 Td (only) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 286.46 519.09 Td (a) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 294.30 519.09 Td (single) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 322.92 519.09 Td (subclass) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 364.08 519.09 Td (\() Tj ET
+0.925 0.940 0.965 rg 368.67 516.89 46.20 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 370.17 519.09 Td (RootNode) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 418.12 519.09 Td (and) Tj ET
+0.925 0.940 0.965 rg 435.65 516.89 62.40 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 437.15 519.09 Td (ElementNode) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 498.55 519.09 Td (\).) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 509.13 519.09 Td (They) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 504.89 Td (provide) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.06 504.89 Td (no) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 113.00 504.89 Td (polymorphic) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 170.04 504.89 Td (reuse) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 198.26 504.89 Td (or) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 211.20 504.89 Td (extensibility.) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 487.69 Td (-) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 487.69 Td (Direct) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 98.12 487.69 Td (Maintainability) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 172.54 487.69 Td (Payoff:) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 212.05 487.69 Td (Applying) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 252.23 487.69 Td (Collapse) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 292.41 487.69 Td (Hierarchy) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 340.04 487.69 Td (consolidates) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 399.23 487.69 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 417.27 487.69 Td (node) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 440.39 487.69 Td (abstractions) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 501.94 487.69 Td (directly) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 473.49 Td (into) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 84.78 473.49 Td (concrete) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 128.29 473.49 Td (classes,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 167.10 473.49 Td (removing) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 211.20 473.49 Td (indirection) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 262.94 473.49 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 280.97 473.49 Td (simplifying) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 333.30 473.49 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 351.34 473.49 Td (XPath) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 382.30 473.49 Td (AST) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 404.45 473.49 Td (structure.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 456.29 Td (b.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 456.29 Td (Location) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 101.12 456.29 Td (within) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 132.67 456.29 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 150.70 456.29 Td (CheckStyle) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 204.80 456.29 Td (code) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 227.93 456.29 Td (base) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 251.06 456.29 Td ([original) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 292.61 456.29 Td (code]:) Tj ET
+0.925 0.940 0.965 rg 47.50 436.09 202.80 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 49.00 438.29 Td (com.puppycrawl.tools.checkstyle.xpath) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 253.54 438.29 Td (\() Tj ET
+0.925 0.940 0.965 rg 258.14 436.09 116.40 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 259.64 438.29 Td (AbstractRootNode.java) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 375.04 438.29 Td (,) Tj ET
+0.925 0.940 0.965 rg 380.03 436.09 73.20 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 381.53 438.29 Td (RootNode.java) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 453.73 438.29 Td (,) Tj ET
+0.925 0.940 0.965 rg 47.50 422.09 132.60 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 49.00 424.29 Td (AbstractElementNode.java) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 180.60 424.29 Td (,) Tj ET
+0.925 0.940 0.965 rg 185.59 422.09 89.40 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 187.09 424.29 Td (ElementNode.java) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 275.49 424.29 Td (\):) Tj ET
+0.965 0.975 0.990 rg 48.00 125.09 499.28 291.00 re f
+0.6 w 0.820 0.860 0.920 RG 48.00 125.09 499.28 291.00 re S
+0.150 0.390 0.920 rg 48.00 125.09 3.00 291.00 re f
+1.000 0.900 0.900 rg 54.00 399.09 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 399.09 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 401.09 Td (public abstract class AbstractRootNode extends AbstractNode { // PROBLEM: Single-child abstract ) Tj ET
+1.000 0.900 0.900 rg 54.00 388.09 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 388.09 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 390.09 Td (  root class) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 379.09 Td (    protected AbstractRootNode\(\) {) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 368.09 Td (        super\(new GenericTreeInfo\(Configuration.newConfiguration\(\)\)\);) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 357.09 Td (    }) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 346.09 Td (    ... // compareOrder, getAttributeValue, getLocalPart, iterateAxis, ...) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 335.09 Td (}) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 324.09 Td () Tj ET
+1.000 0.900 0.900 rg 54.00 311.09 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 311.09 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 313.09 Td (public class RootNode extends AbstractRootNode { // PROBLEM: Only child of AbstractRootNode) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 302.09 Td (    public RootNode\(DetailAST detailAst\) { this.detailAst = detailAst; }) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 291.09 Td (    ... // createChildren, hasChildNodes, getLineNumber, ...) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 280.09 Td (}) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 269.09 Td () Tj ET
+1.000 0.900 0.900 rg 54.00 256.09 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 256.09 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 258.09 Td (public abstract class AbstractElementNode extends AbstractNode { // PROBLEM: Single-child abstra) Tj ET
+1.000 0.900 0.900 rg 54.00 245.09 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 245.09 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 247.09 Td (  ct element class) Tj ET
+1.000 0.900 0.900 rg 54.00 234.09 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 234.09 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 236.09 Td (    protected abstract AttributeNode createAttributeNode\(\); // PROBLEM: Hook with exactly one im) Tj ET
+1.000 0.900 0.900 rg 54.00 223.09 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 223.09 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 225.09 Td (  plementation) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 214.09 Td (    ... // compareOrder, iterateAxis, getAttributeNode, ...) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 203.09 Td (}) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 192.09 Td () Tj ET
+1.000 0.900 0.900 rg 54.00 179.09 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 179.09 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 181.09 Td (public class ElementNode extends AbstractElementNode { // PROBLEM: Only child of AbstractElement) Tj ET
+1.000 0.900 0.900 rg 54.00 168.09 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 168.09 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 170.09 Td (  Node) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 159.09 Td (    protected AttributeNode createAttributeNode\(\) { ... }) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 148.09 Td (    ... // createChildren, hasChildNodes, getLocalPart, ...) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 137.09 Td (}) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 107.29 Td (Why) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 68.97 107.29 Td (this) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 89.75 107.29 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.33 107.29 Td (a) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 108.17 107.29 Td (problem:) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 89.29 Td (-) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 89.29 Td (Each) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 88.50 89.29 Td (abstract) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 132.01 89.29 Td (class) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 157.88 89.29 Td (has) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 175.92 89.29 Td (exactly) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 211.98 89.29 Td (one) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 230.01 89.29 Td (subclass,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 273.92 89.29 Td (so) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 286.85 89.29 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 304.88 89.29 Td (abstraction) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 361.33 89.29 Td (never) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 389.56 89.29 Td (gives) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 415.43 89.29 Td (any) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 433.46 89.29 Td (benefit.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 472.27 89.29 Td (It) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 482.85 89.29 Td (only) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 503.63 89.29 Td (splits) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 75.09 Td (one) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 82.03 75.09 Td (idea) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 102.81 75.09 Td (over) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 125.94 75.09 Td (two) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 146.91 75.09 Td (files) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 170.43 75.09 Td (that) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 193.56 75.09 Td (have) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 216.68 75.09 Td (to) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 229.62 75.09 Td (be) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 242.56 75.09 Td (read) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 265.68 75.09 Td (together.) Tj ET
 BT /F1 8.50 Tf 0.450 0.500 0.560 rg 177.19 28.00 Td (SENG 319 - Group Tozaring - Project 1 Report | Page 7 of 10) Tj ET
 endstream
 endobj
@@ -2002,207 +2129,292 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 19 0 R >>
 endobj
 21 0 obj
-<< /Length 13922 >>
+<< /Length 19614 >>
 stream
-0.925 0.940 0.965 rg 63.50 777.89 116.40 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 780.09 Td (AbstractRootNode.java) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 183.14 780.09 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 193.73 780.09 Td (deleted.) Tj ET
-BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 762.89 Td (-) Tj ET
-BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 762.89 Td (Step) Tj ET
-BT /F2 9.80 Tf 0.150 0.180 0.240 rg 89.81 762.89 Td (2:) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.86 762.89 Td (Do) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 115.17 762.89 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 133.20 762.89 Td (same) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 159.27 762.89 Td (for) Tj ET
-0.925 0.940 0.965 rg 176.80 760.69 105.60 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 178.30 762.89 Td (AbstractElementNode) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 285.64 762.89 Td (and) Tj ET
-0.925 0.940 0.965 rg 303.18 760.69 62.40 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 304.68 762.89 Td (ElementNode) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 366.08 762.89 Td (.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 371.56 762.89 Td (The) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 390.97 762.89 Td (abstract) Tj ET
-0.925 0.940 0.965 rg 63.50 746.49 116.40 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 748.69 Td (createAttributeNode\(\)) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 183.14 748.69 Td (becomes) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 224.50 748.69 Td (a) Tj ET
-0.925 0.940 0.965 rg 231.84 746.49 40.80 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 233.34 748.69 Td (private) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 275.88 748.69 Td (method) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 312.14 748.69 Td (because) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 350.56 748.69 Td (nothing) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 386.62 748.69 Td (overrides) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 432.88 748.69 Td (it) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 443.46 748.69 Td (any) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 461.50 748.69 Td (more,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 490.31 748.69 Td (and) Tj ET
-0.925 0.940 0.965 rg 63.50 732.29 132.60 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 734.49 Td (AbstractElementNode.java) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 199.34 734.49 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 209.93 734.49 Td (deleted.) Tj ET
-BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 717.29 Td (-) Tj ET
-BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 717.29 Td (Step) Tj ET
-BT /F2 9.80 Tf 0.150 0.180 0.240 rg 89.81 717.29 Td (3:) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.86 717.29 Td (Search) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 135.55 717.29 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 153.58 717.29 Td (project) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 192.00 717.29 Td (to) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 204.94 717.29 Td (confirm) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 243.94 717.29 Td (that) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 267.07 717.29 Td (nothing) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 303.13 717.29 Td (else) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 323.91 717.29 Td (used) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 347.04 717.29 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 365.07 717.29 Td (two) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 386.04 717.29 Td (deleted) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 422.10 717.29 Td (classes.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 460.91 717.29 Td (The) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 480.32 717.29 Td (code) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 503.44 717.29 Td (was) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 524.42 717.29 Td (only) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 703.09 Td (moved,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 97.91 703.09 Td (not) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 115.94 703.09 Td (changed,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 157.10 703.09 Td (so) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 170.04 703.09 Td (behaviour) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 216.29 703.09 Td (stays) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 244.52 703.09 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 262.55 703.09 Td (same.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 685.89 Td (d.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 685.89 Td (Our) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 77.99 685.89 Td (implementation:) Tj ET
-0.965 0.975 0.990 rg 48.00 463.69 499.28 214.00 re f
-0.6 w 0.820 0.860 0.920 RG 48.00 463.69 499.28 214.00 re S
-0.150 0.390 0.920 rg 48.00 463.69 3.00 214.00 re f
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 662.69 Td (public class RootNode extends AbstractNode {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 651.69 Td (    public RootNode\(DetailAST detailAst\) {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 640.69 Td (        super\(new GenericTreeInfo\(Configuration.newConfiguration\(\)\)\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 629.69 Td (        this.detailAst = detailAst;) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 618.69 Td (    }) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 607.69 Td (    ... // all former AbstractRootNode members are now here) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 596.69 Td (}) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 585.69 Td () Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 574.69 Td (public class ElementNode extends AbstractNode {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 563.69 Td (    public ElementNode\(AbstractNode root, AbstractNode parent, DetailAST detailAst,) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 552.69 Td (            int depth, int indexAmongSiblings\) {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 541.69 Td (        super\(root.getTreeInfo\(\)\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 530.69 Td (        ...) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 519.69 Td (        this.detailAst = detailAst;) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 508.69 Td (    }) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 497.69 Td (    private AttributeNode createAttributeNode\(\) { ... }) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 486.69 Td (    ... // all former AbstractElementNode members are now here) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 475.69 Td (}) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 445.89 Td (Why) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 68.97 445.89 Td (this) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 89.75 445.89 Td (solves) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 120.72 445.89 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 138.75 445.89 Td (issue:) Tj ET
-BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 427.89 Td (-) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 427.89 Td (The) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 83.40 427.89 Td (two) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 104.38 427.89 Td (abstract) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 147.89 427.89 Td (classes) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 183.95 427.89 Td (no) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 196.89 427.89 Td (longer) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 227.86 427.89 Td (exist,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 256.47 427.89 Td (so) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 269.41 427.89 Td (there) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 297.63 427.89 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 308.22 427.89 Td (no) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 321.15 427.89 Td (class) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 347.02 427.89 Td (with) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 370.74 427.89 Td (a) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 378.58 427.89 Td (single) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 407.20 427.89 Td (child) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 430.72 427.89 Td (left) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 451.49 427.89 Td (in) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 462.08 427.89 Td (this) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 482.85 427.89 Td (package.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 413.69 Td (There) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 93.60 413.69 Td (are) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 111.63 413.69 Td (two) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 132.60 413.69 Td (fewer) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 163.76 413.69 Td (classes) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 199.83 413.69 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 217.86 413.69 Td (two) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 238.83 413.69 Td (fewer) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 270.00 413.69 Td (files) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 293.52 413.69 Td (to) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 306.45 413.69 Td (maintain.) Tj ET
-BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 396.49 Td (-) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 396.49 Td (Each) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 88.50 396.49 Td (node) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 111.63 396.49 Td (type) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 134.76 396.49 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 145.34 396.49 Td (now) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 166.31 396.49 Td (fully) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 189.83 396.49 Td (described) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 236.09 396.49 Td (in) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 246.67 396.49 Td (one) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 264.70 396.49 Td (class.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 293.32 396.49 Td (CheckStyle) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 347.42 396.49 Td (still) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 368.58 396.49 Td (compiles) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 410.33 396.49 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 428.36 396.49 Td (runs.) Tj ET
-BT /F2 10.20 Tf 0.180 0.320 0.550 rg 48.00 377.09 Td (Instance 2: LongMethodClass in ImportControlLoader.startElement) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 362.29 Td (a.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 362.29 Td (Reason) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 93.28 362.29 Td (for) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 111.31 362.29 Td (choosing) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 152.47 362.29 Td (this) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 173.24 362.29 Td (instance:) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 344.29 Td (There) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 77.60 344.29 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 88.18 344.29 Td (no) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 101.12 344.29 Td (reason) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 134.44 344.29 Td (to) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 147.37 344.29 Td (make) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 173.44 344.29 Td (a) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 181.28 344.29 Td (method) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 217.54 344.29 Td (this) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 238.32 344.29 Td (long,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 261.84 344.29 Td (it) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 272.42 344.29 Td (only) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 293.20 344.29 Td (causes) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 326.52 344.29 Td (maintenance) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 385.90 344.29 Td (problems.) Tj ET
-0.925 0.940 0.965 rg 432.25 342.09 67.80 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 433.75 344.29 Td (startElement) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 503.29 344.29 Td (handles) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 330.29 Td (four) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 71.13 330.29 Td (different) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 117.38 330.29 Td (XML) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 141.10 330.29 Td (elements) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 185.20 330.29 Td (in) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 195.78 330.29 Td (one) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 213.82 330.29 Td (body,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 239.69 330.29 Td (so) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 252.62 330.29 Td (it) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 263.21 330.29 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 273.79 330.29 Td (easy) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 296.92 330.29 Td (to) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 309.86 330.29 Td (split) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 333.38 330.29 Td (into) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 354.15 330.29 Td (smaller) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 390.80 330.29 Td (methods.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 312.29 Td (b.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 312.29 Td (Location) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 101.12 312.29 Td (in) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 111.70 312.29 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 129.73 312.29 Td (CheckStyle) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 183.83 312.29 Td (code) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 206.96 312.29 Td (base) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 230.08 312.29 Td ([original) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 271.64 312.29 Td (code]:) Tj ET
-0.925 0.940 0.965 rg 47.50 292.09 359.40 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 49.00 294.29 Td (com.puppycrawl.tools.checkstyle.checks.imports.ImportControlLoader) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 407.40 294.29 Td (,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 412.89 294.29 Td (method) Tj ET
-0.925 0.940 0.965 rg 448.65 292.09 67.80 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 450.15 294.29 Td (startElement) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 516.95 294.29 Td (:) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 780.09 Td (-) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 780.09 Td (The) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 83.40 780.09 Td (only) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 104.18 780.09 Td (abstract) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 147.69 780.09 Td (method) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 183.95 780.09 Td (\() Tj ET
+0.925 0.940 0.965 rg 188.55 777.89 105.60 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 190.05 780.09 Td (createAttributeNode) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 294.65 780.09 Td (\)) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 302.49 780.09 Td (has) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 320.52 780.09 Td (just) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 343.65 780.09 Td (one) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 361.68 780.09 Td (implementation,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 437.34 780.09 Td (so) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 450.27 780.09 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 468.30 780.09 Td (abstract) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 511.82 780.09 Td (class) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 537.69 780.09 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 765.89 Td (unnecessary.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 748.69 Td (c.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 748.69 Td (Steps) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 88.18 748.69 Td (to) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 101.12 748.69 Td (refactor) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 144.63 748.69 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 162.66 748.69 Td (justification:) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 730.69 Td (-) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 730.69 Td (Step) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 89.81 730.69 Td (1:) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.86 730.69 Td (Move) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 126.93 730.69 Td (every) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 155.15 730.69 Td (field) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 178.67 730.69 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 196.70 730.69 Td (method) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 232.96 730.69 Td (of) Tj ET
+0.925 0.940 0.965 rg 245.40 728.49 89.40 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 246.90 730.69 Td (AbstractRootNode) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 338.04 730.69 Td (into) Tj ET
+0.925 0.940 0.965 rg 358.32 728.49 46.20 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 359.82 730.69 Td (RootNode) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 407.76 730.69 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 425.80 730.69 Td (move) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 451.86 730.69 Td (the) Tj ET
+0.925 0.940 0.965 rg 469.40 728.49 57.00 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 470.90 730.69 Td (super\(...\)) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 529.64 730.69 Td (call) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 716.49 Td (into) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 84.78 716.49 Td (the) Tj ET
+0.925 0.940 0.965 rg 102.31 714.29 46.20 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 103.81 716.49 Td (RootNode) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 151.75 716.49 Td (constructor.) Tj ET
+0.925 0.940 0.965 rg 212.80 714.29 46.20 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 214.30 716.49 Td (RootNode) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 262.24 716.49 Td (now) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 283.21 716.49 Td (extends) Tj ET
+0.925 0.940 0.965 rg 321.13 714.29 67.80 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 322.63 716.49 Td (AbstractNode) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 392.17 716.49 Td (directly,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 433.72 716.49 Td (and) Tj ET
+0.925 0.940 0.965 rg 63.50 700.09 116.40 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 702.29 Td (AbstractRootNode.java) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 183.14 702.29 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 193.73 702.29 Td (deleted.) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 685.09 Td (-) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 685.09 Td (Step) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 89.81 685.09 Td (2:) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.86 685.09 Td (Do) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 115.17 685.09 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 133.20 685.09 Td (same) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 159.27 685.09 Td (for) Tj ET
+0.925 0.940 0.965 rg 176.80 682.89 105.60 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 178.30 685.09 Td (AbstractElementNode) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 285.64 685.09 Td (and) Tj ET
+0.925 0.940 0.965 rg 303.18 682.89 62.40 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 304.68 685.09 Td (ElementNode) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 366.08 685.09 Td (.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 371.56 685.09 Td (The) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 390.97 685.09 Td (abstract) Tj ET
+0.925 0.940 0.965 rg 63.50 668.69 116.40 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 670.89 Td (createAttributeNode\(\)) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 183.14 670.89 Td (becomes) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 224.50 670.89 Td (a) Tj ET
+0.925 0.940 0.965 rg 231.84 668.69 40.80 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 233.34 670.89 Td (private) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 275.88 670.89 Td (method) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 312.14 670.89 Td (because) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 350.56 670.89 Td (nothing) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 386.62 670.89 Td (overrides) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 432.88 670.89 Td (it) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 443.46 670.89 Td (any) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 461.50 670.89 Td (more,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 490.31 670.89 Td (and) Tj ET
+0.925 0.940 0.965 rg 63.50 654.49 132.60 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 656.69 Td (AbstractElementNode.java) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 199.34 656.69 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 209.93 656.69 Td (deleted.) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 639.49 Td (-) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 639.49 Td (Step) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 89.81 639.49 Td (3:) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.86 639.49 Td (Search) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 135.55 639.49 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 153.58 639.49 Td (project) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 192.00 639.49 Td (to) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 204.94 639.49 Td (confirm) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 243.94 639.49 Td (that) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 267.07 639.49 Td (nothing) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 303.13 639.49 Td (else) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 323.91 639.49 Td (used) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 347.04 639.49 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 365.07 639.49 Td (two) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 386.04 639.49 Td (deleted) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 422.10 639.49 Td (classes.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 460.91 639.49 Td (The) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 480.32 639.49 Td (code) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 503.44 639.49 Td (was) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 524.42 639.49 Td (only) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 625.29 Td (moved,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 97.91 625.29 Td (not) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 115.94 625.29 Td (changed,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 157.10 625.29 Td (so) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 170.04 625.29 Td (behaviour) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 216.29 625.29 Td (stays) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 244.52 625.29 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 262.55 625.29 Td (same.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 608.09 Td (d.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 608.09 Td (Our) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 77.99 608.09 Td (implementation:) Tj ET
+0.965 0.975 0.990 rg 48.00 385.89 499.28 214.00 re f
+0.6 w 0.820 0.860 0.920 RG 48.00 385.89 499.28 214.00 re S
+0.150 0.390 0.920 rg 48.00 385.89 3.00 214.00 re f
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 584.89 Td (public class RootNode extends AbstractNode {) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 573.89 Td (    public RootNode\(DetailAST detailAst\) {) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 562.89 Td (        super\(new GenericTreeInfo\(Configuration.newConfiguration\(\)\)\);) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 551.89 Td (        this.detailAst = detailAst;) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 540.89 Td (    }) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 529.89 Td (    ... // all former AbstractRootNode members are now here) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 518.89 Td (}) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 507.89 Td () Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 496.89 Td (public class ElementNode extends AbstractNode {) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 485.89 Td (    public ElementNode\(AbstractNode root, AbstractNode parent, DetailAST detailAst,) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 474.89 Td (            int depth, int indexAmongSiblings\) {) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 463.89 Td (        super\(root.getTreeInfo\(\)\);) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 452.89 Td (        ...) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 441.89 Td (        this.detailAst = detailAst;) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 430.89 Td (    }) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 419.89 Td (    private AttributeNode createAttributeNode\(\) { ... }) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 408.89 Td (    ... // all former AbstractElementNode members are now here) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 397.89 Td (}) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 368.09 Td (Why) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 68.97 368.09 Td (this) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 89.75 368.09 Td (solves) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 120.72 368.09 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 138.75 368.09 Td (issue:) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 350.09 Td (-) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 350.09 Td (The) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 83.40 350.09 Td (two) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 104.38 350.09 Td (abstract) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 147.89 350.09 Td (classes) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 183.95 350.09 Td (no) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 196.89 350.09 Td (longer) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 227.86 350.09 Td (exist,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 256.47 350.09 Td (so) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 269.41 350.09 Td (there) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 297.63 350.09 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 308.22 350.09 Td (no) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 321.15 350.09 Td (class) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 347.02 350.09 Td (with) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 370.74 350.09 Td (a) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 378.58 350.09 Td (single) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 407.20 350.09 Td (child) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 430.72 350.09 Td (left) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 451.49 350.09 Td (in) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 462.08 350.09 Td (this) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 482.85 350.09 Td (package.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 335.89 Td (There) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 93.60 335.89 Td (are) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 111.63 335.89 Td (two) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 132.60 335.89 Td (fewer) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 163.76 335.89 Td (classes) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 199.83 335.89 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 217.86 335.89 Td (two) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 238.83 335.89 Td (fewer) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 270.00 335.89 Td (files) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 293.52 335.89 Td (to) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 306.45 335.89 Td (maintain.) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 318.69 Td (-) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 318.69 Td (Each) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 88.50 318.69 Td (node) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 111.63 318.69 Td (type) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 134.76 318.69 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 145.34 318.69 Td (now) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 166.31 318.69 Td (fully) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 189.83 318.69 Td (described) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 236.09 318.69 Td (in) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 246.67 318.69 Td (one) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 264.70 318.69 Td (class.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 293.32 318.69 Td (CheckStyle) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 347.42 318.69 Td (still) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 368.58 318.69 Td (compiles) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 410.33 318.69 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 428.36 318.69 Td (runs.) Tj ET
+BT /F2 10.20 Tf 0.180 0.320 0.550 rg 48.00 299.29 Td (Instance 2: LongMethodClass in ImportControlLoader.startElement) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 284.49 Td (a.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 284.49 Td (Reason) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 93.28 284.49 Td (for) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 111.31 284.49 Td (choosing) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 152.47 284.49 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 170.50 284.49 Td (Code) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 195.00 284.49 Td (Smell) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 222.83 284.49 Td (instance:) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 266.49 Td (-) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 266.49 Td (Procedural) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 119.72 266.49 Td (Bloat) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 148.44 266.49 Td (in) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 159.49 266.49 Td (SAX) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 182.80 266.49 Td (Parsing:) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 225.23 266.49 Td (The) Tj ET
+0.925 0.940 0.965 rg 244.13 264.29 67.80 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 245.63 266.49 Td (startElement) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 315.18 266.49 Td (callback) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 353.99 266.49 Td (in) Tj ET
+0.925 0.940 0.965 rg 364.07 264.29 105.60 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 365.57 266.49 Td (ImportControlLoader) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 472.91 266.49 Td (handles) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 508.98 266.49 Td (multiple) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 252.29 Td (distinct) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 102.81 252.29 Td (XML) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 126.52 252.29 Td (tags) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 149.65 252.29 Td (in) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 160.24 252.29 Td (a) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 168.08 252.29 Td (single) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 196.69 252.29 Td (procedural) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 248.04 252.29 Td (monolith,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 292.54 252.29 Td (combining) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 339.38 252.29 Td (configuration) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 403.67 252.29 Td (attribute) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 449.92 252.29 Td (extraction) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 501.28 252.29 Td (with) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 238.09 Td (parse-tree) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 117.70 238.09 Td (stack) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 145.93 238.09 Td (operations.) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 220.89 Td (-) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 220.89 Td (High) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 87.31 220.89 Td (Readability) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 143.45 220.89 Td (&) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 151.60 220.89 Td (Testability) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 207.73 220.89 Td (Payoff:) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 247.25 220.89 Td (Extracting) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 299.98 220.89 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 318.01 220.89 Td (tag) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 336.04 220.89 Td (processing) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 387.39 220.89 Td (into) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 408.17 220.89 Td (dedicated) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 454.42 220.89 Td (private) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 490.49 220.89 Td (helper) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 206.69 Td (methods) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 105.36 206.69 Td (turns) Tj ET
+0.925 0.940 0.965 rg 133.08 204.49 67.80 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 134.58 206.69 Td (startElement) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 204.12 206.69 Td (into) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 224.90 206.69 Td (a) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 232.74 206.69 Td (clean,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 261.36 206.69 Td (readable) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 302.52 206.69 Td (dispatcher) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 353.87 206.69 Td (while) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 380.33 206.69 Td (preserving) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 431.68 206.69 Td (all) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 445.01 206.69 Td (parsing) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 481.07 206.69 Td (behavior.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 189.49 Td (b.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 189.49 Td (Location) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 101.12 189.49 Td (within) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 132.67 189.49 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 150.70 189.49 Td (CheckStyle) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 204.80 189.49 Td (code) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 227.93 189.49 Td (base) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 251.06 189.49 Td ([original) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 292.61 189.49 Td (code]:) Tj ET
+0.925 0.940 0.965 rg 47.50 169.29 359.40 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 49.00 171.49 Td (com.puppycrawl.tools.checkstyle.checks.imports.ImportControlLoader) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 407.40 171.49 Td (,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 412.89 171.49 Td (method) Tj ET
+0.925 0.940 0.965 rg 448.65 169.29 67.80 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 450.15 171.49 Td (startElement) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 516.95 171.49 Td (:) Tj ET
 BT /F1 8.50 Tf 0.450 0.500 0.560 rg 177.19 28.00 Td (SENG 319 - Group Tozaring - Project 1 Report | Page 8 of 10) Tj ET
 endstream
 endobj
@@ -2210,212 +2422,197 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 21 0 R >>
 endobj
 23 0 obj
-<< /Length 15288 >>
+<< /Length 14336 >>
 stream
-0.965 0.975 0.990 rg 48.00 553.89 499.28 236.00 re f
-0.6 w 0.820 0.860 0.920 RG 48.00 553.89 499.28 236.00 re S
-0.150 0.390 0.920 rg 48.00 553.89 3.00 236.00 re f
+0.965 0.975 0.990 rg 48.00 520.89 499.28 269.00 re f
+0.6 w 0.820 0.860 0.920 RG 48.00 520.89 499.28 269.00 re S
+0.150 0.390 0.920 rg 48.00 520.89 3.00 269.00 re f
 BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 774.89 Td (    public void startElement\(String namespaceUri, String localName,) Tj ET
 BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 763.89 Td (                             String qualifiedName, Attributes attributes\)) Tj ET
 BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 752.89 Td (            throws SAXException {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 741.89 Td (        if \("import-control".equals\(qualifiedName\)\) {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 730.89 Td (            final String pkg = safeGet\(attributes, PKG_ATTRIBUTE_NAME\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 719.89 Td (            final MismatchStrategy strategyOnMismatch = getStrategyForImportControl\(attributes\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 708.89 Td (            final boolean regex = containsRegexAttribute\(attributes\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 697.89 Td (            stack.push\(new PkgImportControl\(pkg, regex, strategyOnMismatch\)\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 686.89 Td (        }) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 675.89 Td (        else if \(SUBPACKAGE_ELEMENT_NAME.equals\(qualifiedName\)\) {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 664.89 Td (            ... // about 9 lines: read attributes, create PkgImportControl, add child, push) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 653.89 Td (        }) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 642.89 Td (        else if \(FILE_ELEMENT_NAME.equals\(qualifiedName\)\) {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 631.89 Td (            ... // about 8 lines: read attributes, create FileImportControl, add child, push) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 620.89 Td (        }) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 609.89 Td (        else {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 598.89 Td (            final AbstractImportRule rule = createImportRule\(qualifiedName, attributes\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 587.89 Td (            stack.peek\(\).addImportRule\(rule\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 576.89 Td (        }) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 565.89 Td (    }) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 536.09 Td (Why) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 68.97 536.09 Td (this) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 89.75 536.09 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.33 536.09 Td (a) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 108.17 536.09 Td (problem:) Tj ET
-BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 518.09 Td (-) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 518.09 Td (One) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 83.40 518.09 Td (method) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 119.66 518.09 Td (does) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 142.79 518.09 Td (four) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 165.92 518.09 Td (different) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 212.18 518.09 Td (jobs,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 238.05 518.09 Td (with) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 261.76 518.09 Td (many) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 287.83 518.09 Td (local) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 311.35 518.09 Td (variables) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 355.26 518.09 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 373.29 518.09 Td (branches.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 419.54 518.09 Td (To) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 433.85 518.09 Td (change) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 467.17 518.09 Td (one) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 485.20 518.09 Td (element) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 524.21 518.09 Td (type) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 503.89 Td (you) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 82.03 503.89 Td (have) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 105.16 503.89 Td (to) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 118.10 503.89 Td (read) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 141.22 503.89 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 159.26 503.89 Td (understand) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 212.96 503.89 Td (all) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 226.29 503.89 Td (of) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 239.22 503.89 Td (them.) Tj ET
-BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 486.69 Td (-) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 486.69 Td (The) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 83.40 486.69 Td (method) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 119.66 486.69 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 130.25 486.69 Td (hard) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 153.38 486.69 Td (to) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 166.31 486.69 Td (test,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 192.18 486.69 Td (because) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 230.60 486.69 Td (each) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 253.73 486.69 Td (case) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 276.86 486.69 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 287.44 486.69 Td (only) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 308.22 486.69 Td (reachable) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 354.47 486.69 Td (through) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 392.89 486.69 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 410.92 486.69 Td (large) Tj ET
-0.925 0.940 0.965 rg 436.29 484.49 13.80 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 437.79 486.69 Td (if) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 450.59 486.69 Td (/) Tj ET
-0.925 0.940 0.965 rg 455.19 484.49 24.60 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 456.69 486.69 Td (else) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 483.03 486.69 Td (chain.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 469.49 Td (c.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 469.49 Td (Steps) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 88.18 469.49 Td (to) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 101.12 469.49 Td (refactor) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 144.63 469.49 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 162.66 469.49 Td (justification:) Tj ET
-BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 451.49 Td (-) Tj ET
-BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 451.49 Td (Step) Tj ET
-BT /F2 9.80 Tf 0.150 0.180 0.240 rg 89.81 451.49 Td (1:) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.86 451.49 Td (Extract) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 140.65 451.49 Td (each) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 163.78 451.49 Td (of) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 176.71 451.49 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 194.74 451.49 Td (first) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 220.62 451.49 Td (three) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 248.84 451.49 Td (branches) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 292.35 451.49 Td (into) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 313.13 451.49 Td (its) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 328.81 451.49 Td (own) Tj ET
-0.925 0.940 0.965 rg 349.28 449.29 40.80 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 350.78 451.49 Td (private) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 393.32 451.49 Td (method:) Tj ET
-0.925 0.940 0.965 rg 63.50 435.09 138.00 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 437.29 Td (startImportControlElement) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 202.00 437.29 Td (,) Tj ET
-0.925 0.940 0.965 rg 206.99 435.09 121.80 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 208.49 437.29 Td (startSubpackageElement) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 332.03 437.29 Td (and) Tj ET
-0.925 0.940 0.965 rg 349.56 435.09 89.40 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 351.06 437.29 Td (startFileElement) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 439.46 437.29 Td (.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 444.95 437.29 Td (The) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 464.36 437.29 Td (code) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 487.48 437.29 Td (inside) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 516.10 437.29 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 423.09 Td (copied) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 94.97 423.09 Td (unchanged.) Tj ET
-BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 405.89 Td (-) Tj ET
-BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 405.89 Td (Step) Tj ET
-BT /F2 9.80 Tf 0.150 0.180 0.240 rg 89.81 405.89 Td (2:) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.86 405.89 Td (Leave) Tj ET
-0.925 0.940 0.965 rg 129.96 403.69 67.80 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 131.46 405.89 Td (startElement) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 201.00 405.89 Td (as) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 213.94 405.89 Td (a) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 221.78 405.89 Td (short) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 250.00 405.89 Td (dispatcher) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 301.35 405.89 Td (that) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 324.48 405.89 Td (keeps) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 352.70 405.89 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 370.74 405.89 Td (same) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 396.80 405.89 Td (conditions) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 445.80 405.89 Td (in) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 456.39 405.89 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 474.42 405.89 Td (same) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 500.49 405.89 Td (order) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 528.71 405.89 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 391.69 Td (calls) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 87.52 391.69 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 105.55 391.69 Td (right) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 131.42 391.69 Td (method,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 170.43 391.69 Td (so) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 183.36 391.69 Td (behaviour) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 229.62 391.69 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 240.20 391.69 Td (identical.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 374.49 Td (d.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 374.49 Td (Our) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 77.99 374.49 Td (implementation:) Tj ET
-0.965 0.975 0.990 rg 48.00 119.29 499.28 247.00 re f
-0.6 w 0.820 0.860 0.920 RG 48.00 119.29 499.28 247.00 re S
-0.150 0.390 0.920 rg 48.00 119.29 3.00 247.00 re f
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 351.29 Td (    public void startElement\(String namespaceUri, String localName,) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 340.29 Td (                             String qualifiedName, Attributes attributes\)) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 329.29 Td (            throws SAXException {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 318.29 Td (        if \("import-control".equals\(qualifiedName\)\) {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 307.29 Td (            startImportControlElement\(attributes\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 296.29 Td (        }) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 285.29 Td (        else if \(SUBPACKAGE_ELEMENT_NAME.equals\(qualifiedName\)\) {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 274.29 Td (            startSubpackageElement\(attributes\);) Tj ET
+1.000 0.900 0.900 rg 54.00 739.89 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 739.89 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 741.89 Td (        if \("import-control".equals\(qualifiedName\)\) { // PROBLEM: First branch mixing tag parsin) Tj ET
+1.000 0.900 0.900 rg 54.00 728.89 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 728.89 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 730.89 Td (  g and stack management) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 719.89 Td (            final String pkg = safeGet\(attributes, PKG_ATTRIBUTE_NAME\);) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 708.89 Td (            final MismatchStrategy strategyOnMismatch = getStrategyForImportControl\(attributes\);) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 697.89 Td (            final boolean regex = containsRegexAttribute\(attributes\);) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 686.89 Td (            stack.push\(new PkgImportControl\(pkg, regex, strategyOnMismatch\)\);) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 675.89 Td (        }) Tj ET
+1.000 0.900 0.900 rg 54.00 662.89 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 662.89 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 664.89 Td (        else if \(SUBPACKAGE_ELEMENT_NAME.equals\(qualifiedName\)\) { // PROBLEM: Second branch with) Tj ET
+1.000 0.900 0.900 rg 54.00 651.89 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 651.89 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 653.89 Td (   9 lines of local logic) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 642.89 Td (            ... // read attributes, create PkgImportControl, add child, push) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 631.89 Td (        }) Tj ET
+1.000 0.900 0.900 rg 54.00 618.89 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 618.89 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 620.89 Td (        else if \(FILE_ELEMENT_NAME.equals\(qualifiedName\)\) { // PROBLEM: Third branch with 8 line) Tj ET
+1.000 0.900 0.900 rg 54.00 607.89 487.28 11.00 re f
+0.5 w 0.920 0.550 0.550 RG 54.00 607.89 487.28 11.00 re S
+BT /F4 8.00 Tf 0.720 0.100 0.100 rg 58.00 609.89 Td (  s of local logic) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 598.89 Td (            ... // read attributes, create FileImportControl, add child, push) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 587.89 Td (        }) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 576.89 Td (        else {) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 565.89 Td (            final AbstractImportRule rule = createImportRule\(qualifiedName, attributes\);) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 554.89 Td (            stack.peek\(\).addImportRule\(rule\);) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 543.89 Td (        }) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 532.89 Td (    }) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 503.09 Td (Why) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 68.97 503.09 Td (this) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 89.75 503.09 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.33 503.09 Td (a) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 108.17 503.09 Td (problem:) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 485.09 Td (-) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 485.09 Td (One) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 83.40 485.09 Td (method) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 119.66 485.09 Td (does) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 142.79 485.09 Td (four) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 165.92 485.09 Td (different) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 212.18 485.09 Td (jobs,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 238.05 485.09 Td (with) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 261.76 485.09 Td (many) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 287.83 485.09 Td (local) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 311.35 485.09 Td (variables) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 355.26 485.09 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 373.29 485.09 Td (branches.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 419.54 485.09 Td (To) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 433.85 485.09 Td (change) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 467.17 485.09 Td (one) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 485.20 485.09 Td (element) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 524.21 485.09 Td (type) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 470.89 Td (you) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 82.03 470.89 Td (have) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 105.16 470.89 Td (to) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 118.10 470.89 Td (read) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 141.22 470.89 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 159.26 470.89 Td (understand) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 212.96 470.89 Td (all) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 226.29 470.89 Td (of) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 239.22 470.89 Td (them.) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 453.69 Td (-) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 453.69 Td (The) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 83.40 453.69 Td (method) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 119.66 453.69 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 130.25 453.69 Td (hard) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 153.38 453.69 Td (to) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 166.31 453.69 Td (test,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 192.18 453.69 Td (because) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 230.60 453.69 Td (each) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 253.73 453.69 Td (case) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 276.86 453.69 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 287.44 453.69 Td (only) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 308.22 453.69 Td (reachable) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 354.47 453.69 Td (through) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 392.89 453.69 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 410.92 453.69 Td (large) Tj ET
+0.925 0.940 0.965 rg 436.29 451.49 13.80 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 437.79 453.69 Td (if) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 450.59 453.69 Td (/) Tj ET
+0.925 0.940 0.965 rg 455.19 451.49 24.60 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 456.69 453.69 Td (else) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 483.03 453.69 Td (chain.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 436.49 Td (c.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 436.49 Td (Steps) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 88.18 436.49 Td (to) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 101.12 436.49 Td (refactor) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 144.63 436.49 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 162.66 436.49 Td (justification:) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 418.49 Td (-) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 418.49 Td (Step) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 89.81 418.49 Td (1:) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.86 418.49 Td (Extract) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 140.65 418.49 Td (each) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 163.78 418.49 Td (of) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 176.71 418.49 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 194.74 418.49 Td (first) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 220.62 418.49 Td (three) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 248.84 418.49 Td (branches) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 292.35 418.49 Td (into) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 313.13 418.49 Td (its) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 328.81 418.49 Td (own) Tj ET
+0.925 0.940 0.965 rg 349.28 416.29 40.80 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 350.78 418.49 Td (private) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 393.32 418.49 Td (method:) Tj ET
+0.925 0.940 0.965 rg 63.50 402.09 138.00 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 404.29 Td (startImportControlElement) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 202.00 404.29 Td (,) Tj ET
+0.925 0.940 0.965 rg 206.99 402.09 121.80 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 208.49 404.29 Td (startSubpackageElement) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 332.03 404.29 Td (and) Tj ET
+0.925 0.940 0.965 rg 349.56 402.09 89.40 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 351.06 404.29 Td (startFileElement) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 439.46 404.29 Td (.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 444.95 404.29 Td (The) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 464.36 404.29 Td (code) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 487.48 404.29 Td (inside) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 516.10 404.29 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 390.09 Td (copied) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 94.97 390.09 Td (unchanged.) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 372.89 Td (-) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 64.00 372.89 Td (Step) Tj ET
+BT /F2 9.80 Tf 0.150 0.180 0.240 rg 89.81 372.89 Td (2:) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.86 372.89 Td (Leave) Tj ET
+0.925 0.940 0.965 rg 129.96 370.69 67.80 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 131.46 372.89 Td (startElement) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 201.00 372.89 Td (as) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 213.94 372.89 Td (a) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 221.78 372.89 Td (short) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 250.00 372.89 Td (dispatcher) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 301.35 372.89 Td (that) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 324.48 372.89 Td (keeps) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 352.70 372.89 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 370.74 372.89 Td (same) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 396.80 372.89 Td (conditions) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 445.80 372.89 Td (in) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 456.39 372.89 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 474.42 372.89 Td (same) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 500.49 372.89 Td (order) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 528.71 372.89 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 358.69 Td (calls) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 87.52 358.69 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 105.55 358.69 Td (right) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 131.42 358.69 Td (method,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 170.43 358.69 Td (so) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 183.36 358.69 Td (behaviour) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 229.62 358.69 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 240.20 358.69 Td (identical.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 341.49 Td (d.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 58.58 341.49 Td (Our) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 77.99 341.49 Td (implementation:) Tj ET
+0.965 0.975 0.990 rg 48.00 86.29 499.28 247.00 re f
+0.6 w 0.820 0.860 0.920 RG 48.00 86.29 499.28 247.00 re S
+0.150 0.390 0.920 rg 48.00 86.29 3.00 247.00 re f
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 318.29 Td (    public void startElement\(String namespaceUri, String localName,) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 307.29 Td (                             String qualifiedName, Attributes attributes\)) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 296.29 Td (            throws SAXException {) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 285.29 Td (        if \("import-control".equals\(qualifiedName\)\) {) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 274.29 Td (            startImportControlElement\(attributes\);) Tj ET
 BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 263.29 Td (        }) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 252.29 Td (        else if \(FILE_ELEMENT_NAME.equals\(qualifiedName\)\) {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 241.29 Td (            startFileElement\(attributes\);) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 252.29 Td (        else if \(SUBPACKAGE_ELEMENT_NAME.equals\(qualifiedName\)\) {) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 241.29 Td (            startSubpackageElement\(attributes\);) Tj ET
 BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 230.29 Td (        }) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 219.29 Td (        else {) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 208.29 Td (            final AbstractImportRule rule = createImportRule\(qualifiedName, attributes\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 197.29 Td (            stack.peek\(\).addImportRule\(rule\);) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 186.29 Td (        }) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 175.29 Td (    }) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 164.29 Td () Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 153.29 Td (    private void startImportControlElement\(Attributes attributes\) throws SAXException { ... }) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 142.29 Td (    private void startSubpackageElement\(Attributes attributes\) throws SAXException { ... }) Tj ET
-BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 131.29 Td (    private void startFileElement\(Attributes attributes\) throws SAXException { ... }) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 101.49 Td (Why) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 68.97 101.49 Td (this) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 89.75 101.49 Td (solves) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 120.72 101.49 Td (the) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 138.75 101.49 Td (issue:) Tj ET
-BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 83.49 Td (-) Tj ET
-0.925 0.940 0.965 rg 63.50 81.29 67.80 12.00 re f
-BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 83.49 Td (startElement) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 134.54 83.49 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 145.13 83.49 Td (now) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 166.10 83.49 Td (about) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 194.32 83.49 Td (15) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 207.26 83.49 Td (lines) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 230.78 83.49 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 248.81 83.49 Td (only) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 269.59 83.49 Td (decides) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 305.65 83.49 Td (which) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 334.46 83.49 Td (handler) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 370.53 83.49 Td (to) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 383.46 83.49 Td (call.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 404.63 83.49 Td (Each) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 429.13 83.49 Td (handler) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 465.20 83.49 Td (is) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 475.78 83.49 Td (small,) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 504.98 83.49 Td (has) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 523.02 83.49 Td (one) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 69.29 Td (job) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 82.03 69.29 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.06 69.29 Td (a) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 107.90 69.29 Td (name) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 133.97 69.29 Td (that) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 157.10 69.29 Td (says) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 180.23 69.29 Td (what) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 206.30 69.29 Td (it) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 216.88 69.29 Td (does.) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 219.29 Td (        else if \(FILE_ELEMENT_NAME.equals\(qualifiedName\)\) {) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 208.29 Td (            startFileElement\(attributes\);) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 197.29 Td (        }) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 186.29 Td (        else {) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 175.29 Td (            final AbstractImportRule rule = createImportRule\(qualifiedName, attributes\);) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 164.29 Td (            stack.peek\(\).addImportRule\(rule\);) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 153.29 Td (        }) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 142.29 Td (    }) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 131.29 Td () Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 120.29 Td (    private void startImportControlElement\(Attributes attributes\) throws SAXException { ... }) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 109.29 Td (    private void startSubpackageElement\(Attributes attributes\) throws SAXException { ... }) Tj ET
+BT /F4 8.00 Tf 0.100 0.140 0.220 rg 58.00 98.29 Td (    private void startFileElement\(Attributes attributes\) throws SAXException { ... }) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 48.00 68.49 Td (Why) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 68.97 68.49 Td (this) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 89.75 68.49 Td (solves) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 120.72 68.49 Td (the) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 138.75 68.49 Td (issue:) Tj ET
 BT /F1 8.50 Tf 0.450 0.500 0.560 rg 177.19 28.00 Td (SENG 319 - Group Tozaring - Project 1 Report | Page 9 of 10) Tj ET
 endstream
 endobj
@@ -2423,26 +2620,56 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 23 0 R >>
 endobj
 25 0 obj
-<< /Length 1318 >>
+<< /Length 3282 >>
 stream
 BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 780.09 Td (-) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 780.09 Td (A) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 73.21 780.09 Td (change) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 106.53 780.09 Td (to) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 119.47 780.09 Td (one) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 137.50 780.09 Td (element) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 176.50 780.09 Td (type) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 199.63 780.09 Td (now) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 220.60 780.09 Td (touches) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 259.02 780.09 Td (only) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 279.80 780.09 Td (one) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 297.83 780.09 Td (small) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 324.29 780.09 Td (method.) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 363.29 780.09 Td (CheckStyle) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 417.39 780.09 Td (still) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 438.56 780.09 Td (compiles) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 480.30 780.09 Td (and) Tj ET
-BT /F1 9.80 Tf 0.150 0.180 0.240 rg 498.34 780.09 Td (runs.) Tj ET
+0.925 0.940 0.965 rg 63.50 777.89 67.80 12.00 re f
+BT /F4 9.00 Tf 0.620 0.120 0.280 rg 65.00 780.09 Td (startElement) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 134.54 780.09 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 145.13 780.09 Td (now) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 166.10 780.09 Td (about) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 194.32 780.09 Td (15) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 207.26 780.09 Td (lines) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 230.78 780.09 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 248.81 780.09 Td (only) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 269.59 780.09 Td (decides) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 305.65 780.09 Td (which) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 334.46 780.09 Td (handler) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 370.53 780.09 Td (to) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 383.46 780.09 Td (call.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 404.63 780.09 Td (Each) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 429.13 780.09 Td (handler) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 465.20 780.09 Td (is) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 475.78 780.09 Td (small,) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 504.98 780.09 Td (has) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 523.02 780.09 Td (one) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 765.89 Td (job) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 82.03 765.89 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 100.06 765.89 Td (a) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 107.90 765.89 Td (name) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 133.97 765.89 Td (that) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 157.10 765.89 Td (says) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 180.23 765.89 Td (what) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 206.30 765.89 Td (it) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 216.88 765.89 Td (does.) Tj ET
+BT /F2 10.00 Tf 0.120 0.250 0.580 rg 53.00 748.69 Td (-) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 64.00 748.69 Td (A) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 73.21 748.69 Td (change) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 106.53 748.69 Td (to) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 119.47 748.69 Td (one) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 137.50 748.69 Td (element) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 176.50 748.69 Td (type) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 199.63 748.69 Td (now) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 220.60 748.69 Td (touches) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 259.02 748.69 Td (only) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 279.80 748.69 Td (one) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 297.83 748.69 Td (small) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 324.29 748.69 Td (method.) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 363.29 748.69 Td (CheckStyle) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 417.39 748.69 Td (still) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 438.56 748.69 Td (compiles) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 480.30 748.69 Td (and) Tj ET
+BT /F1 9.80 Tf 0.150 0.180 0.240 rg 498.34 748.69 Td (runs.) Tj ET
 BT /F1 8.50 Tf 0.450 0.500 0.560 rg 174.99 28.00 Td (SENG 319 - Group Tozaring - Project 1 Report | Page 10 of 10) Tj ET
 endstream
 endobj
@@ -2459,27 +2686,27 @@ xref
 0000000378 00000 n 
 0000000483 00000 n 
 0000000578 00000 n 
-0000025606 00000 n 
-0000025768 00000 n 
-0000043929 00000 n 
-0000044092 00000 n 
-0000058128 00000 n 
-0000058292 00000 n 
-0000074122 00000 n 
-0000074286 00000 n 
-0000087855 00000 n 
-0000088019 00000 n 
-0000108150 00000 n 
-0000108314 00000 n 
-0000132779 00000 n 
-0000132943 00000 n 
-0000146919 00000 n 
-0000147083 00000 n 
-0000162425 00000 n 
-0000162589 00000 n 
-0000163960 00000 n 
+0000024957 00000 n 
+0000025119 00000 n 
+0000047457 00000 n 
+0000047620 00000 n 
+0000066252 00000 n 
+0000066416 00000 n 
+0000084438 00000 n 
+0000084602 00000 n 
+0000098171 00000 n 
+0000098335 00000 n 
+0000118466 00000 n 
+0000118630 00000 n 
+0000141810 00000 n 
+0000141974 00000 n 
+0000161642 00000 n 
+0000161806 00000 n 
+0000176196 00000 n 
+0000176360 00000 n 
+0000179695 00000 n 
 trailer
 << /Size 27 /Root 1 0 R >>
 startxref
-164124
+179859
 %%EOF
